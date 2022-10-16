@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-16 14:34+0000\n"
-"PO-Revision-Date: 2022-10-16 15:30\n"
+"PO-Revision-Date: 2022-10-16 23:06\n"
 "Last-Translator: \n"
 "Language-Team: Hungarian\n"
 "Language: hu_HU\n"
@@ -1344,7 +1344,7 @@ msgstr "Szöveg"
 #: ../src/core/gui/SearchBar.cpp:75
 #, c-format
 msgid "Text %zu times found on this page"
-msgstr ""
+msgstr "A szöveg %zu alkalommal fordul elő ezen az oldalon"
 
 #: ../src/core/undo/TextUndoAction.cpp:35
 msgid "Text changes"
