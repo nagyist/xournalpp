@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-16 14:34+0000\n"
-"PO-Revision-Date: 2022-10-16 15:30\n"
+"PO-Revision-Date: 2022-10-17 15:23\n"
 "Last-Translator: \n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
@@ -21,18 +21,19 @@ msgstr ""
 msgid "\n\n"
 "Will now attempt to run without this file."
 msgstr "\n\n"
-"אנסה לרוץ ללא הקובץ הנ״ל."
+"עכשיו יתבצע ניסיון לרוץ ללא הקובץ הנ״ל."
 
 #: ../src/core/control/jobs/BaseExportJob.cpp:53
 msgid "\n"
 " Do you want to continue?"
 msgstr "\n"
-"האם להמשיך?"
+"להמשיך?"
 
 #: ../src/core/control/Control.cpp:2221
 msgid "\n"
 "Proposed replacement file: \"{1}\""
-msgstr ""
+msgstr "\n"
+"הקובץ החלופי המוצע: „{1}”"
 
 #: ../src/core/gui/toolbarMenubar/ToolPageSpinner.cpp:37
 msgctxt "Page {pagenumber} \"of {pagecount}\""
@@ -123,7 +124,8 @@ msgstr "צבע התכונה לא מוגדר!"
 #: ../src/core/control/AudioController.cpp:118
 msgid "Audio folder not set or invalid! Recording won't work!\n"
 "Please set the recording folder under \"Preferences > Audio recording\""
-msgstr ""
+msgstr "לא נבחרה תיקיית שמע או שהיא שגויה! הקלטה לא תעבוד!\n"
+"נא לבחור תיקיית שמע תחת „העדפות > הקלטת שמע”"
 
 #: ../src/core/control/Control.cpp:250
 msgid "Autosave failed with an error: {1}"
