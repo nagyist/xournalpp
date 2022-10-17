@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-16 14:34+0000\n"
-"PO-Revision-Date: 2022-10-17 16:37\n"
+"POT-Creation-Date: 2022-10-17 18:37+0000\n"
+"PO-Revision-Date: 2022-10-17 18:42\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -663,6 +663,10 @@ msgstr "Datei konnte nicht geöffnet werden, Sie müssen sie manuell öffnen:\n"
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:544
 msgid "Fill"
 msgstr "Füllung"
+
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:545
+msgid "Fill Opacity"
+msgstr ""
 
 #: ../src/core/gui/dialog/SettingsDialog.cpp:298
 msgid "Filter input pressure. Multiply the pressure by the pressure multiplier. If less than the minimum, use the minimum pressure."
