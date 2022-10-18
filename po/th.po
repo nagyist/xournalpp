@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-17 18:37+0000\n"
-"PO-Revision-Date: 2022-10-17 18:42\n"
+"POT-Creation-Date: 2022-10-18 03:09+0000\n"
+"PO-Revision-Date: 2022-10-18 04:06\n"
 "Last-Translator: \n"
 "Language-Team: Thai\n"
 "Language: th_TH\n"
@@ -28,7 +28,7 @@ msgid "\n"
 msgstr "\n"
 "คุณต้องการดำเนินการต่อใช่หรือไม่"
 
-#: ../src/core/control/Control.cpp:2221
+#: ../src/core/control/Control.cpp:2242
 msgid "\n"
 "Proposed replacement file: \"{1}\""
 msgstr ""
@@ -149,7 +149,7 @@ msgstr "นำมาไว้ข้างหน้าหนึ่งระดั
 msgid "Bring to front"
 msgstr "นำมาไว้ข้างหน้าสุด"
 
-#: ../src/core/control/Control.cpp:2233 ../src/core/control/Control.cpp:2704
+#: ../src/core/control/Control.cpp:2254 ../src/core/control/Control.cpp:2725
 #: ../src/core/control/XournalMain.cpp:177
 msgid "Cancel"
 msgstr "ยกเลิก"
@@ -352,7 +352,7 @@ msgstr ""
 msgid "Delete this page"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2701
+#: ../src/core/control/Control.cpp:2722
 msgid "Discard"
 msgstr ""
 
@@ -360,7 +360,7 @@ msgstr ""
 msgid "Display advanced export options"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2146
+#: ../src/core/control/Control.cpp:2167
 msgid "Do not open Autosave files. They may will be overwritten!\n"
 "Copy the files to another folder.\n"
 "Files from Folder {1} cannot be opened."
@@ -370,7 +370,7 @@ msgstr ""
 msgid "Do not overwrite the background PDF! This will cause errors!"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2695
+#: ../src/core/control/Control.cpp:2716
 msgid "Document file was removed."
 msgstr ""
 
@@ -485,7 +485,7 @@ msgstr ""
 msgid "Eraser"
 msgstr "ยางลบ"
 
-#: ../src/core/control/Control.cpp:2441
+#: ../src/core/control/Control.cpp:2462
 msgid "Error annotate PDF file \"{1}\"\n"
 "{2}"
 msgstr ""
@@ -494,7 +494,7 @@ msgstr ""
 msgid "Error loading glade file \"{1}\" (try to load \"{2}\")"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2264
+#: ../src/core/control/Control.cpp:2285
 msgid "Error opening file \"{1}\""
 msgstr "เกิดข้อผิดพลาดในการเปิดไฟล์ \"{1}\""
 
@@ -1029,7 +1029,7 @@ msgstr ""
 msgid "Redo: "
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2232
+#: ../src/core/control/Control.cpp:2253
 msgid "Remove PDF Background"
 msgstr ""
 
@@ -1081,16 +1081,16 @@ msgstr ""
 msgid "Sample LaTeX file generated successfully."
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2696 ../src/core/control/jobs/SaveJob.cpp:25
+#: ../src/core/control/Control.cpp:2717 ../src/core/control/jobs/SaveJob.cpp:25
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:384
 msgid "Save"
 msgstr "เซฟ"
 
-#: ../src/core/control/Control.cpp:2696
+#: ../src/core/control/Control.cpp:2717
 msgid "Save As..."
 msgstr "เซฟเป็น..."
 
-#: ../src/core/control/Control.cpp:2530
+#: ../src/core/control/Control.cpp:2551
 #: ../src/core/gui/dialog/PageTemplateDialog.cpp:85
 msgid "Save File"
 msgstr "เซฟไฟล์"
@@ -1169,7 +1169,7 @@ msgstr ""
 msgid "Select Text from pdf"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2231
+#: ../src/core/control/Control.cpp:2252
 msgid "Select another PDF"
 msgstr ""
 
@@ -1340,11 +1340,11 @@ msgstr ""
 msgid "The Toolbarconfiguration \"{1}\" is predefined, would you create a copy to edit?"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2208
+#: ../src/core/control/Control.cpp:2229
 msgid "The attached background file could not be found. It might have been moved, renamed or deleted."
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2211
+#: ../src/core/control/Control.cpp:2232
 msgid "The background file \"{1}\" could not be found. It might have been moved, renamed or deleted.\n"
 "It was last seen at: \"{2}\""
 msgstr ""
@@ -1353,7 +1353,7 @@ msgstr ""
 msgid "The check for overwriting the background failed with:\n"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2272
+#: ../src/core/control/Control.cpp:2293
 msgid "The file being loaded has a file format version newer than the one currently supported by this version of Xournal++, so it may not load properly. Open anyways?"
 msgstr ""
 
@@ -1397,7 +1397,7 @@ msgstr ""
 msgid "Thick"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2695
+#: ../src/core/control/Control.cpp:2716
 msgid "This document is not saved yet."
 msgstr ""
 
@@ -1482,7 +1482,7 @@ msgstr ""
 msgid "Unknown stroke type: \"{1}\", assuming pen"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2587
+#: ../src/core/control/Control.cpp:2608
 msgid "Unsaved Document"
 msgstr ""
 
@@ -1490,7 +1490,7 @@ msgstr ""
 msgid "Unsupported graphics format: "
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2229
+#: ../src/core/control/Control.cpp:2250
 msgid "Use proposed PDF"
 msgstr ""
 
@@ -1542,7 +1542,7 @@ msgstr ""
 msgid "Xournal++ crashed last time. Would you like to restore the last edited file?"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2536
+#: ../src/core/control/Control.cpp:2557
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:62
 msgid "Xournal++ files"
 msgstr ""
@@ -1587,7 +1587,7 @@ msgstr "ซูมออก"
 msgid "Zoom to 100%"
 msgstr "ซูม 100%"
 
-#: ../src/core/control/Control.cpp:2530
+#: ../src/core/control/Control.cpp:2551
 #: ../src/core/control/jobs/BaseExportJob.cpp:24
 #: ../src/core/control/stockdlg/ImageOpenDlg.cpp:15
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:16
@@ -1600,7 +1600,7 @@ msgstr ""
 msgid "_Open"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2531
+#: ../src/core/control/Control.cpp:2552
 #: ../src/core/control/jobs/BaseExportJob.cpp:24
 #: ../src/core/gui/dialog/PageTemplateDialog.cpp:86
 msgid "_Save"
@@ -1643,7 +1643,7 @@ msgstr ""
 msgid "eraser"
 msgstr "ยางลบ"
 
-#: ../src/core/control/Control.cpp:2160
+#: ../src/core/control/Control.cpp:2181
 msgid "file: {1}"
 msgstr ""
 
