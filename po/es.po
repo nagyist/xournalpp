@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-18 03:09+0000\n"
-"PO-Revision-Date: 2022-10-18 04:07\n"
+"PO-Revision-Date: 2022-10-18 14:56\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -664,7 +664,7 @@ msgstr "Rellenar"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:545
 msgid "Fill Opacity"
-msgstr ""
+msgstr "Opacidad del relleno"
 
 #: ../src/core/gui/dialog/SettingsDialog.cpp:298
 msgid "Filter input pressure. Multiply the pressure by the pressure multiplier. If less than the minimum, use the minimum pressure."
@@ -1346,7 +1346,7 @@ msgstr "Texto"
 #: ../src/core/gui/SearchBar.cpp:75
 #, c-format
 msgid "Text %zu times found on this page"
-msgstr ""
+msgstr "Texto encontrado %zu veces en esta página"
 
 #: ../src/core/undo/TextUndoAction.cpp:35
 msgid "Text changes"
@@ -2312,7 +2312,7 @@ msgstr "Radio de la zona muerta"
 
 #: ../ui/latexSettings.glade:119
 msgid "Default LaTeX Text"
-msgstr ""
+msgstr "Texto LaTeX por defecto"
 
 #: ../ui/settings.glade:630
 msgid "Default Save Name"
