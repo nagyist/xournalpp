@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-20 06:38+0000\n"
-"PO-Revision-Date: 2022-10-20 06:40\n"
+"PO-Revision-Date: 2022-10-20 09:54\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -666,7 +666,7 @@ msgstr "Füllung"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:545
 msgid "Fill Opacity"
-msgstr ""
+msgstr "Füllungstranzparenz"
 
 #: ../src/core/gui/dialog/SettingsDialog.cpp:298
 msgid "Filter input pressure. Multiply the pressure by the pressure multiplier. If less than the minimum, use the minimum pressure."
