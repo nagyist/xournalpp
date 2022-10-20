@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-20 06:38+0000\n"
-"PO-Revision-Date: 2022-10-20 06:40\n"
+"PO-Revision-Date: 2022-10-20 11:06\n"
 "Last-Translator: \n"
 "Language-Team: Hungarian\n"
 "Language: hu_HU\n"
@@ -665,7 +665,7 @@ msgstr "Kitöltés"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:545
 msgid "Fill Opacity"
-msgstr ""
+msgstr "Kitöltési átlátszatlanság"
 
 #: ../src/core/gui/dialog/SettingsDialog.cpp:298
 msgid "Filter input pressure. Multiply the pressure by the pressure multiplier. If less than the minimum, use the minimum pressure."
@@ -2524,7 +2524,7 @@ msgstr "_Kitöltés"
 
 #: ../ui/main.glade:1762 ../ui/main.glade:1967
 msgid "Fill opacity"
-msgstr "Kitöltés átlátszatlansága"
+msgstr "Kitöltési átlátszatlanság"
 
 #: ../ui/settings.glade:1222
 msgid "Finalize the stroke"
