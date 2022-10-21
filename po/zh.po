@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-20 06:38+0000\n"
-"PO-Revision-Date: 2022-10-20 06:40\n"
+"PO-Revision-Date: 2022-10-21 08:03\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -620,7 +620,9 @@ msgstr "路径中无法找到 LaTeX 生成器: {1}"
 msgid "Failed to find LaTeX generator program in PATH: {1}\n\n"
 "Since installation is detected within Flatpak, you need to install the Flatpak freedesktop Tex Live extension. For example, by running:\n\n"
 "$ flatpak install flathub org.freedesktop.Sdk.Extension.texlive"
-msgstr ""
+msgstr "在 PATH 中找不到 LaTeX 生成器: {1}\n\n"
+"检测到已经在 Flatpak 中安装， 您需要安装 Flatpak freedestop Tex Live 扩展。 例如执行：\n\n"
+"$ flatpak install flatthub org.freedesktop.Sdk.Extension.texlive"
 
 #: ../src/core/pdf/base/XojCairoPdfExport.cpp:177
 #: ../src/core/pdf/base/XojCairoPdfExport.cpp:217
@@ -664,7 +666,7 @@ msgstr "填充"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:545
 msgid "Fill Opacity"
-msgstr ""
+msgstr "填充不透明度"
 
 #: ../src/core/gui/dialog/SettingsDialog.cpp:298
 msgid "Filter input pressure. Multiply the pressure by the pressure multiplier. If less than the minimum, use the minimum pressure."
@@ -1347,7 +1349,7 @@ msgstr "文本"
 #: ../src/core/gui/SearchBar.cpp:75
 #, c-format
 msgid "Text %zu times found on this page"
-msgstr ""
+msgstr "在本页面共找到 %zu 次文本"
 
 #: ../src/core/undo/TextUndoAction.cpp:35
 msgid "Text changes"
