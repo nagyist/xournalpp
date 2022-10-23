@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-23 08:27+0000\n"
-"PO-Revision-Date: 2022-10-23 08:38\n"
+"PO-Revision-Date: 2022-10-23 14:02\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -1887,7 +1887,7 @@ msgstr "0.00"
 
 #: ../ui/settings.glade:4828
 msgid "0.20"
-msgstr ""
+msgstr "0.20"
 
 #: ../ui/settings.glade:1741
 msgid "1"
@@ -2819,7 +2819,7 @@ msgstr "最小压力："
 
 #: ../ui/settings.glade:4815
 msgid "Minimum Stroke Size"
-msgstr ""
+msgstr "最小笔画大小"
 
 #: ../ui/settings.glade:1460 ../ui/settingsDeviceClassConfig.glade:42
 msgid "Mouse"
@@ -3209,7 +3209,7 @@ msgstr "为选中文本添加删除线"
 
 #: ../ui/settings.glade:4856
 msgid "Stroke Recognizer"
-msgstr ""
+msgstr "笔画识别"
 
 #: ../ui/settings.glade:1976
 msgid "Stylus"
