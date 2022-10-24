@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-23 08:27+0000\n"
-"PO-Revision-Date: 2022-10-24 20:44\n"
+"PO-Revision-Date: 2022-10-24 23:27\n"
 "Last-Translator: \n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
@@ -1311,7 +1311,7 @@ msgstr "Stop"
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:47
 #: ../src/core/undo/RecognizerUndoAction.cpp:76
 msgid "Stroke recognizer"
-msgstr "Recunoaște conturul"
+msgstr "Recunoaște forma"
 
 #: ../src/core/control/CrashHandler.cpp:39
 msgid "Successfully saved document to \"{1}\""
@@ -2820,7 +2820,7 @@ msgstr "Apăsarea minimă:"
 
 #: ../ui/settings.glade:4815
 msgid "Minimum Stroke Size"
-msgstr "Mărimea minimă a conturului"
+msgstr "Mărimea minimă a formei"
 
 #: ../ui/settings.glade:1460 ../ui/settingsDeviceClassConfig.glade:42
 msgid "Mouse"
@@ -3211,7 +3211,7 @@ msgstr "Taie cu o linie textul ales"
 
 #: ../ui/settings.glade:4856
 msgid "Stroke Recognizer"
-msgstr "Recunoaște conturul"
+msgstr "Recunoaște forma"
 
 #: ../ui/settings.glade:1976
 msgid "Stylus"
