@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-23 08:27+0000\n"
-"PO-Revision-Date: 2022-10-23 08:38\n"
+"PO-Revision-Date: 2022-10-24 19:41\n"
 "Last-Translator: \n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
@@ -1887,7 +1887,7 @@ msgstr "0.00"
 
 #: ../ui/settings.glade:4828
 msgid "0.20"
-msgstr ""
+msgstr "0.20"
 
 #: ../ui/settings.glade:1741
 msgid "1"
