@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-23 08:27+0000\n"
-"PO-Revision-Date: 2022-10-24 19:41\n"
+"PO-Revision-Date: 2022-10-24 20:44\n"
 "Last-Translator: \n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
@@ -176,7 +176,7 @@ msgstr "Schimbă tipul liniei"
 
 #: ../src/core/undo/FillUndoAction.cpp:81
 msgid "Change stroke fill"
-msgstr "Schimbă umplerea formei"
+msgstr "Schimbă umplerea conturului"
 
 #: ../src/core/undo/SizeUndoAction.cpp:106
 msgid "Change stroke width"
@@ -1311,7 +1311,7 @@ msgstr "Stop"
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:47
 #: ../src/core/undo/RecognizerUndoAction.cpp:76
 msgid "Stroke recognizer"
-msgstr "Recunoaște forma"
+msgstr "Recunoaște conturul"
 
 #: ../src/core/control/CrashHandler.cpp:39
 msgid "Successfully saved document to \"{1}\""
@@ -1516,7 +1516,7 @@ msgstr "Tip de pixmap::domain necunoscut: {1}"
 
 #: ../src/core/control/xojfile/LoadHandler.cpp:624
 msgid "Unknown stroke cap type: \"{1}\", assuming round"
-msgstr "Tip necunoscut de linie: „{1}”, se presupune a fi un cerc"
+msgstr "Tip necunoscut de contur: „{1}”, se presupune a fi un cerc"
 
 #: ../src/core/control/xojfile/LoadHandler.cpp:642
 msgid "Unknown stroke type: \"{1}\", assuming pen"
@@ -2820,7 +2820,7 @@ msgstr "Apăsarea minimă:"
 
 #: ../ui/settings.glade:4815
 msgid "Minimum Stroke Size"
-msgstr ""
+msgstr "Mărimea minimă a conturului"
 
 #: ../ui/settings.glade:1460 ../ui/settingsDeviceClassConfig.glade:42
 msgid "Mouse"
@@ -3108,7 +3108,7 @@ msgstr "Alege banda cu instrumente:"
 
 #: ../ui/settings.glade:2878
 msgid "Selection Color (Text, Stroke Selection etc.)"
-msgstr "Culoarea selecției (Text, Linie etc.)"
+msgstr "Culoarea selecției (Text, Contur etc.)"
 
 #: ../ui/settings.glade:3564
 msgid "Selection Edge Panning"
@@ -3211,7 +3211,7 @@ msgstr "Taie cu o linie textul ales"
 
 #: ../ui/settings.glade:4856
 msgid "Stroke Recognizer"
-msgstr ""
+msgstr "Recunoaște conturul"
 
 #: ../ui/settings.glade:1976
 msgid "Stylus"
