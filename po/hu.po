@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-23 08:27+0000\n"
-"PO-Revision-Date: 2022-10-27 00:53\n"
+"PO-Revision-Date: 2022-10-27 03:57\n"
 "Last-Translator: \n"
 "Language-Team: Hungarian\n"
 "Language: hu_HU\n"
@@ -2818,7 +2818,7 @@ msgstr "Legkisebb nyomás:"
 
 #: ../ui/settings.glade:4815
 msgid "Minimum Stroke Size"
-msgstr ""
+msgstr "Legkisebb vonásírás mérete"
 
 #: ../ui/settings.glade:1460 ../ui/settingsDeviceClassConfig.glade:42
 msgid "Mouse"
@@ -3209,7 +3209,7 @@ msgstr "Kijelölt szöveg áthúzása"
 
 #: ../ui/settings.glade:4856
 msgid "Stroke Recognizer"
-msgstr ""
+msgstr "Vonalfelismerő"
 
 #: ../ui/settings.glade:1976
 msgid "Stylus"
