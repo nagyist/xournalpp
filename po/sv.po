@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-23 08:27+0000\n"
-"PO-Revision-Date: 2022-10-23 08:38\n"
+"POT-Creation-Date: 2022-10-27 18:15+0000\n"
+"PO-Revision-Date: 2022-10-27 18:20\n"
 "Last-Translator: \n"
 "Language-Team: Swedish\n"
 "Language: sv_SE\n"
@@ -220,28 +220,28 @@ msgstr "Kunde inte ladda LaTeX PDF-fil: {1}"
 msgid "Could not load pagetemplates.ini file"
 msgstr "Kunde inte läsa in pagetemplates.ini-fil"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:838
+#: ../src/core/control/xojfile/LoadHandler.cpp:839
 msgid "Could not open attachment: {1}. Error message: Could not read file"
 msgstr "Kunde inte öppna bilaga: {1}. Felmeddelande: Kunde inte läsa filen"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:848
+#: ../src/core/control/xojfile/LoadHandler.cpp:849
 msgid "Could not open attachment: {1}. Error message: Could not write file"
 msgstr "Kunde inte öppna bilaga: {1}. Felmeddelande: Kunde inte skriva till filen"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:818
-#: ../src/core/control/xojfile/LoadHandler.cpp:1069
-#: ../src/core/control/xojfile/LoadHandler.cpp:1087
+#: ../src/core/control/xojfile/LoadHandler.cpp:819
+#: ../src/core/control/xojfile/LoadHandler.cpp:1144
+#: ../src/core/control/xojfile/LoadHandler.cpp:1162
 msgid "Could not open attachment: {1}. Error message: No valid file size provided"
 msgstr "Kunde inte öppna bilaga: {1}. Felmeddelande: Ingen giltig filstorlek angiven"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:809
-#: ../src/core/control/xojfile/LoadHandler.cpp:825
-#: ../src/core/control/xojfile/LoadHandler.cpp:1062
-#: ../src/core/control/xojfile/LoadHandler.cpp:1076
+#: ../src/core/control/xojfile/LoadHandler.cpp:810
+#: ../src/core/control/xojfile/LoadHandler.cpp:826
+#: ../src/core/control/xojfile/LoadHandler.cpp:1137
+#: ../src/core/control/xojfile/LoadHandler.cpp:1151
 msgid "Could not open attachment: {1}. Error message: {2}"
 msgstr "Kunde inte öppna bilaga: {1}. Felmeddelande: {2}"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:179
+#: ../src/core/control/xojfile/LoadHandler.cpp:180
 msgid "Could not open file: \"{1}\""
 msgstr "Kunde inte öppna filen: \"{1}\""
 
@@ -255,12 +255,12 @@ msgid "Could not parse general toolbar.ini file: {1}\n"
 "No Toolbars will be available"
 msgstr ""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:395
-#: ../src/core/control/xojfile/LoadHandler.cpp:418
+#: ../src/core/control/xojfile/LoadHandler.cpp:396
+#: ../src/core/control/xojfile/LoadHandler.cpp:419
 msgid "Could not read image: {1}. Error message: {2}"
 msgstr "Kunde inte läsa bild: {1}. Felmeddelande: {2}"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:428
+#: ../src/core/control/xojfile/LoadHandler.cpp:429
 msgid "Could not read page number for cloned background image: {1}."
 msgstr ""
 
@@ -382,11 +382,11 @@ msgstr ""
 msgid "Document file was removed."
 msgstr ""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:263
+#: ../src/core/control/xojfile/LoadHandler.cpp:264
 msgid "Document is corrupted (no pages found in file)"
 msgstr "Dokumentet är skadat (inga sidor finns i filen)"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:259
+#: ../src/core/control/xojfile/LoadHandler.cpp:260
 msgid "Document is not complete (maybe the end is cut off?)"
 msgstr ""
 
@@ -511,12 +511,12 @@ msgstr "Fel vid öppning av fil \"{1}\""
 msgid "Error opening file: \"{1}\""
 msgstr "Fel vid öppning av fil: \"{1}\""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:481
-#: ../src/core/control/xojfile/LoadHandler.cpp:501
+#: ../src/core/control/xojfile/LoadHandler.cpp:482
+#: ../src/core/control/xojfile/LoadHandler.cpp:502
 msgid "Error reading PDF: {1}"
 msgstr "Fel vid läsning av PDF: {1}"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:556
+#: ../src/core/control/xojfile/LoadHandler.cpp:557
 msgid "Error reading width of a stroke: {1}"
 msgstr "Fel vid läsning av bredden på ett streck: {1}"
 
@@ -614,7 +614,7 @@ msgstr ""
 msgid "Failed to load image, could not determine image size!"
 msgstr "Misslyckades att ladda bilden, kunde inte avgöra bildens storlek!"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:171
+#: ../src/core/control/xojfile/LoadHandler.cpp:172
 msgid "Failed to open content.xml in zip archive: \"{1}\""
 msgstr "Det gick inte att öppna content.xml i zip-arkivet: \"{1}\""
 
@@ -1059,7 +1059,7 @@ msgstr "Byt namn på lager"
 msgid "Replace"
 msgstr "Ersätt"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:1106
+#: ../src/core/control/xojfile/LoadHandler.cpp:1181
 msgid "Requested temporary file was not found for attachment {1}"
 msgstr ""
 
@@ -1369,19 +1369,19 @@ msgstr ""
 msgid "The file being loaded has a file format version newer than the one currently supported by this version of Xournal++, so it may not load properly. Open anyways?"
 msgstr ""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:132
+#: ../src/core/control/xojfile/LoadHandler.cpp:133
 msgid "The file is no valid .xopp file (Mimetype missing): \"{1}\""
 msgstr ""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:140
+#: ../src/core/control/xojfile/LoadHandler.cpp:141
 msgid "The file is no valid .xopp file (Mimetype wrong): \"{1}\""
 msgstr ""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:149
+#: ../src/core/control/xojfile/LoadHandler.cpp:150
 msgid "The file is no valid .xopp file (Version missing): \"{1}\""
 msgstr ""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:162
+#: ../src/core/control/xojfile/LoadHandler.cpp:163
 msgid "The file is not a valid .xopp file (Version string corrupted): \"{1}\""
 msgstr ""
 
@@ -1458,15 +1458,15 @@ msgstr "Ångra"
 msgid "Undo: "
 msgstr "Ångra: "
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:308
+#: ../src/core/control/xojfile/LoadHandler.cpp:309
 msgid "Unexpected root tag: {1}"
 msgstr ""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:329
+#: ../src/core/control/xojfile/LoadHandler.cpp:330
 msgid "Unexpected tag in document: \"{1}\""
 msgstr ""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:532
+#: ../src/core/control/xojfile/LoadHandler.cpp:533
 msgid "Unknown background type: {1}"
 msgstr "Okänd bakgrundstyp: {1}"
 
@@ -1474,23 +1474,23 @@ msgstr "Okänd bakgrundstyp: {1}"
 msgid "Unknown color value \"{1}\""
 msgstr "Okänt färgvärde \"{1}\""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:488
+#: ../src/core/control/xojfile/LoadHandler.cpp:489
 msgid "Unknown domain type: {1}"
 msgstr ""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:248
+#: ../src/core/control/xojfile/LoadHandler.cpp:249
 msgid "Unknown parser error"
 msgstr ""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:436
+#: ../src/core/control/xojfile/LoadHandler.cpp:437
 msgid "Unknown pixmap::domain type: {1}"
 msgstr ""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:624
+#: ../src/core/control/xojfile/LoadHandler.cpp:625
 msgid "Unknown stroke cap type: \"{1}\", assuming round"
 msgstr ""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:642
+#: ../src/core/control/xojfile/LoadHandler.cpp:643
 msgid "Unknown stroke type: \"{1}\", assuming pen"
 msgstr ""
 
@@ -1530,15 +1530,15 @@ msgstr "Med PDF-bakgrund"
 msgid "Write text"
 msgstr "Skriv text"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:963
+#: ../src/core/control/xojfile/LoadHandler.cpp:1031
 msgid "Wrong count of points ({1})"
 msgstr ""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:973
-msgid "Wrong number of points, got {1}, expected {2}"
+#: ../src/core/control/xojfile/LoadHandler.cpp:1048
+msgid "Wrong number of pressure values, got {1}, expected {2}"
 msgstr ""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:245
+#: ../src/core/control/xojfile/LoadHandler.cpp:246
 msgid "XML Parser error: {1}"
 msgstr "Fel vid XML-parsning: {1}"
 
@@ -1720,7 +1720,7 @@ msgstr ""
 msgid "whiteout"
 msgstr ""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:972
+#: ../src/core/control/xojfile/LoadHandler.cpp:1047
 msgid "xoj-File: {1}"
 msgstr ""
 
