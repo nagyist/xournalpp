@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-27 18:15+0000\n"
-"PO-Revision-Date: 2022-10-27 18:21\n"
+"POT-Creation-Date: 2022-10-29 19:44+0000\n"
+"PO-Revision-Date: 2022-10-29 19:50\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -831,7 +831,7 @@ msgstr "Lapisan {1}"
 msgid "Layerstack Preview"
 msgstr "Pratinjau Lapisan"
 
-#: ../src/core/gui/PageView.cpp:861
+#: ../src/core/gui/PageView.cpp:864
 #: ../src/core/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:97
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:28
 msgid "Loading..."
