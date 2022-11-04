@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-01 13:34+0000\n"
-"PO-Revision-Date: 2022-11-04 00:00\n"
+"PO-Revision-Date: 2022-11-04 02:21\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -860,7 +860,7 @@ msgstr ""
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:382
 msgid "New Xournal"
-msgstr ""
+msgstr "Xournalを新規作成"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:440
 msgid "Next"
@@ -877,7 +877,7 @@ msgstr ""
 #: ../src/core/pdf/base/XojCairoPdfExport.cpp:172
 #: ../src/core/pdf/base/XojCairoPdfExport.cpp:212
 msgid "No pages to export!"
-msgstr ""
+msgstr "エクスポートするページがありません。"
 
 #: ../src/core/control/Control.cpp:1396
 msgid "No pdf pages available to append. You may need to reopen the document first."
@@ -890,7 +890,7 @@ msgstr ""
 #: ../src/core/gui/toolbarMenubar/model/ColorPalette.cpp:184
 #: ../src/core/plugin/Plugin.cpp:229 ../src/core/plugin/Plugin.cpp:252
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: ../src/core/control/XournalMain.cpp:650
 msgid "On export, only export the layers specified by RANGE (e.g. \"2-3,5,7-\")\n"
@@ -1069,7 +1069,7 @@ msgstr ""
 
 #: ../src/core/control/XournalMain.cpp:219
 msgid "Restore file"
-msgstr ""
+msgstr "ファイルを復元"
 
 #: ../src/core/undo/RotateUndoAction.cpp:56
 msgid "Rotation"
@@ -1213,15 +1213,15 @@ msgstr ""
 
 #: ../src/core/control/XournalMain.cpp:173
 msgid "Send Bugreport"
-msgstr ""
+msgstr "バグレポートを送信"
 
 #: ../src/core/control/tools/EditSelection.cpp:404
 msgid "Send backward"
-msgstr ""
+msgstr "背面に移動"
 
 #: ../src/core/control/tools/EditSelection.cpp:412
 msgid "Send to back"
-msgstr ""
+msgstr "最背面に移動"
 
 #: ../src/core/gui/dialog/toolbarCustomize/ToolbarCustomizeDialog.cpp:72
 msgid "Separator"
@@ -1375,19 +1375,19 @@ msgstr ""
 
 #: ../src/core/control/xojfile/LoadHandler.cpp:133
 msgid "The file is no valid .xopp file (Mimetype missing): \"{1}\""
-msgstr ""
+msgstr "ファイルが有効な.xoppファイルではありません（MIMEタイプ不明）：\"{1}\""
 
 #: ../src/core/control/xojfile/LoadHandler.cpp:141
 msgid "The file is no valid .xopp file (Mimetype wrong): \"{1}\""
-msgstr ""
+msgstr "ファイルが有効な.xoppファイルではありません（MIMEタイプが無効）：\"{1}\""
 
 #: ../src/core/control/xojfile/LoadHandler.cpp:150
 msgid "The file is no valid .xopp file (Version missing): \"{1}\""
-msgstr ""
+msgstr "ファイルが有効な.xoppファイルではありません（バーション不明）：\"{1}\""
 
 #: ../src/core/control/xojfile/LoadHandler.cpp:163
 msgid "The file is not a valid .xopp file (Version string corrupted): \"{1}\""
-msgstr ""
+msgstr "ファイルが有効な.xoppファイルではありません（バーション文字列が破損）：\"{1}\""
 
 #: ../src/core/control/LatexController.cpp:301
 msgid "The formula is empty when rendered or invalid."
@@ -1520,11 +1520,11 @@ msgstr ""
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:563
 msgid "Very Fine"
-msgstr ""
+msgstr "極細"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:567
 msgid "Very Thick"
-msgstr ""
+msgstr "極太"
 
 #: ../src/core/control/pagetype/PageTypeHandler.cpp:32
 msgid "With PDF background"
@@ -1778,15 +1778,15 @@ msgstr ""
 
 #: ../ui/latexSettings.glade:217
 msgid "%%XPP_TEXT_COLOR%%"
-msgstr ""
+msgstr "%%XPP_TEXT_COLOR%%"
 
 #: ../ui/latexSettings.glade:180
 msgid "%%XPP_TOOL_INPUT%%"
-msgstr ""
+msgstr "%%XPP_TOOL_INPUT%%"
 
 #: ../ui/settings.glade:5139
 msgid "%."
-msgstr ""
+msgstr "%."
 
 #: ../ui/settings.glade:563
 msgid "%a\t\tAbbreviated weekday name (e.g. Thu)\n"
@@ -1816,7 +1816,7 @@ msgstr ""
 
 #: ../ui/settings.glade:2969
 msgid "(requires restart)"
-msgstr ""
+msgstr "（要再起動）"
 
 #: ../ui/settings.glade:4979
 msgid "... AND How much time must have passed since last stroke.\n\n"
@@ -2073,7 +2073,7 @@ msgstr ""
 
 #: ../ui/settings.glade:226
 msgid "Arithmetic mean"
-msgstr ""
+msgstr "算術平均"
 
 #: ../ui/settings.glade:1780
 msgid "Artifact workaround"
@@ -2150,11 +2150,11 @@ msgstr ""
 
 #: ../ui/main.glade:321
 msgid "Bring Forward"
-msgstr ""
+msgstr "前面に移動"
 
 #: ../ui/main.glade:312
 msgid "Bring to Front"
-msgstr ""
+msgstr "最前面に移動"
 
 #: ../ui/settings.glade:1023
 msgid "Buffersize"
@@ -2396,7 +2396,7 @@ msgstr ""
 
 #: ../ui/settings.glade:381
 msgid "Enable Autosaving"
-msgstr ""
+msgstr "自動保存を有効にする"
 
 #: ../ui/settings.glade:918
 msgid "Enable Pressure Inference <i>(Guess pressure from drawing speed when device-supplied pressure is not available)</i>"
@@ -2623,27 +2623,27 @@ msgstr ""
 
 #: ../ui/settings.glade:246
 msgid "Inertia"
-msgstr ""
+msgstr "慣性"
 
 #: ../ui/settings.glade:5542
 msgid "Input Device"
-msgstr ""
+msgstr "入力デバイス"
 
 #: ../ui/settings.glade:819
 msgid "Input Devices"
-msgstr ""
+msgstr "入力デバイス"
 
 #: ../ui/settings.glade:1284
 msgid "Input System"
-msgstr ""
+msgstr "入力システム"
 
 #: ../ui/settings.glade:1253
 msgid "Input stabilization"
-msgstr ""
+msgstr "手ブレ補正"
 
 #: ../ui/settings.glade:1233
 msgid "Input stabilization can create a gap at the end of your stroke. If enabled, this gap is filled."
-msgstr ""
+msgstr "手ブレ補正をかけると、線の終わりに隙間が生じることがあります。有効にすると、その隙間を埋めます。"
 
 #: ../ui/texdialog.glade:9
 msgid "Insert Latex"
@@ -2659,7 +2659,7 @@ msgstr ""
 
 #: ../ui/settings.glade:5882
 msgid "LaTeX"
-msgstr ""
+msgstr "LaTeX"
 
 #: ../ui/latexSettings.glade:354
 msgid "LaTeX executable settings"
@@ -2671,11 +2671,11 @@ msgstr ""
 
 #: ../ui/settings.glade:5971 ../ui/settings.glade:6019
 msgid "Language"
-msgstr ""
+msgstr "言語"
 
 #: ../ui/settings.glade:5989
 msgid "Language Settings"
-msgstr ""
+msgstr "言語設定"
 
 #: ../ui/main.glade:594
 msgid "Layout"
@@ -2683,7 +2683,7 @@ msgstr "レイアウト"
 
 #: ../ui/settings.glade:3398
 msgid "Left / Right-Handed"
-msgstr ""
+msgstr "左利き / 右利き"
 
 #: ../ui/about.glade:424
 msgid "License"
@@ -2691,7 +2691,7 @@ msgstr ""
 
 #: ../ui/latexSettings.glade:433
 msgid "Line numbers"
-msgstr ""
+msgstr "行番号"
 
 #: ../ui/settings.glade:733
 msgid "Load / Save"
@@ -2707,7 +2707,7 @@ msgstr ""
 
 #: ../ui/settings.glade:2956
 msgid "Lucide"
-msgstr ""
+msgstr "Lucide"
 
 #: ../ui/toolbarManageDialog.glade:9
 msgid "Manage Toolbar"
@@ -2715,11 +2715,11 @@ msgstr ""
 
 #: ../ui/settings.glade:1115
 msgid "Mass"
-msgstr ""
+msgstr "重さ"
 
 #: ../ui/settings.glade:1114 ../ui/settings.glade:1126
 msgid "Mass: the higher the mass, the more inertia and the more stabilization"
-msgstr ""
+msgstr "重さ：重さを大きくすると、慣性感が強くなり安定します"
 
 #: ../ui/settings.glade:4956
 msgid "Max Length (mm)"
@@ -2826,7 +2826,7 @@ msgstr ""
 
 #: ../ui/settings.glade:5565
 msgid "Output Device"
-msgstr ""
+msgstr "出力デバイス"
 
 #: ../ui/texdialog.glade:143
 msgid "Output generated by the LaTeX command."
@@ -2923,7 +2923,7 @@ msgstr ""
 
 #: ../ui/settings.glade:3732
 msgid "Presentation Mode"
-msgstr ""
+msgstr "プレゼンテーションモード"
 
 #: ../ui/settings.glade:4572
 msgid "Preserve line width"
@@ -3047,11 +3047,11 @@ msgstr ""
 
 #: ../ui/main.glade:330
 msgid "Send Backward"
-msgstr ""
+msgstr "背面に移動"
 
 #: ../ui/main.glade:339
 msgid "Send to Back"
-msgstr ""
+msgstr "最背面に移動"
 
 #: ../ui/settings.glade:1655
 msgid "Sensitivity Scale"
@@ -3145,11 +3145,11 @@ msgstr ""
 
 #: ../ui/settings.glade:1976
 msgid "Stylus"
-msgstr ""
+msgstr "ペンタブ"
 
 #: ../ui/settings.glade:1945
 msgid "Stylus Buttons"
-msgstr ""
+msgstr "ペンタブのボタン"
 
 #: ../ui/settings.glade:4967
 msgid "Successive (ms)"
@@ -3166,7 +3166,7 @@ msgstr ""
 
 #: ../ui/main.glade:922
 msgid "T_oolbars"
-msgstr ""
+msgstr "ツールバー(_o)"
 
 #: ../ui/texdialog.glade:125
 msgid "TeX Source"
@@ -3194,7 +3194,7 @@ msgstr ""
 
 #: ../ui/main.glade:1981
 msgid "Text Font..."
-msgstr ""
+msgstr "フォント…"
 
 #: ../ui/latexSettings.glade:152
 msgid "The LaTeX file to use as a template for the LaTeX tool."
@@ -3239,7 +3239,7 @@ msgstr ""
 #: ../ui/settings.glade:2062 ../ui/settings.glade:2686
 #: ../ui/settingsDeviceClassConfig.glade:46
 msgid "Touchscreen"
-msgstr ""
+msgstr "タッチパネル"
 
 #: ../ui/settings.glade:4996
 msgid "Try to select object first."
@@ -3337,7 +3337,7 @@ msgstr ""
 
 #: ../ui/settings.glade:254
 msgid "Xournal++ Preferences"
-msgstr ""
+msgstr "Xournal++の設定"
 
 #: ../ui/settings.glade:4170
 msgid "Zoom"
@@ -3537,7 +3537,7 @@ msgstr ""
 
 #: ../ui/main.glade:1448
 msgid "_Shape Recognizer"
-msgstr ""
+msgstr "図形認識(_S)"
 
 #: ../ui/main.glade:1407
 msgid "_Text"
@@ -3577,7 +3577,7 @@ msgstr "細(_f)"
 
 #: ../ui/main.glade:1663 ../ui/main.glade:1809 ../ui/main.glade:1918
 msgid "_medium"
-msgstr ""
+msgstr "中(_m)"
 
 #: ../ui/main.glade:1848
 msgid "_standard"
@@ -3585,11 +3585,11 @@ msgstr ""
 
 #: ../ui/main.glade:1674 ../ui/main.glade:1820 ../ui/main.glade:1929
 msgid "_thick"
-msgstr ""
+msgstr "太(_t)"
 
 #: ../ui/main.glade:1641 ../ui/main.glade:1787 ../ui/main.glade:1896
 msgid "_very fine"
-msgstr "_極細"
+msgstr "極細(_v)"
 
 #: ../ui/main.glade:1859
 msgid "_whiteout"
@@ -3627,7 +3627,7 @@ msgstr ""
 
 #: ../ui/main.glade:1685 ../ui/main.glade:1831 ../ui/main.glade:1940
 msgid "ver_y thick"
-msgstr ""
+msgstr "極太(_y)"
 
 #: ../ui/about.glade:143
 msgid "with libgtk"
