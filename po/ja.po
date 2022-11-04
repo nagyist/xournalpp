@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-01 13:34+0000\n"
-"PO-Revision-Date: 2022-11-01 13:49\n"
+"PO-Revision-Date: 2022-11-04 00:00\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -543,11 +543,11 @@ msgstr ""
 
 #: ../src/core/control/CrashHandler.cpp:37
 msgid "Error: {1}"
-msgstr ""
+msgstr "エラー：{1}"
 
 #: ../src/core/gui/dialog/LatexSettingsPanel.cpp:164
 msgid "Error: {1} is not a regular file. Please check your LaTeX template file settings. "
-msgstr ""
+msgstr "エラー： {1} は通常のファイルではありません。LaTeXテンプレートファイルの設定を確認してください。 "
 
 #: ../src/core/gui/dialog/LatexSettingsPanel.cpp:154
 msgid "Error: {1}. Please check the contents of {2}"
@@ -1016,7 +1016,7 @@ msgstr ""
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:421
 msgid "Presentation mode"
-msgstr ""
+msgstr "プレゼンテーションモード"
 
 #: ../src/core/gui/dialog/LanguageConfigGui.cpp:62
 msgid "Previously selected language not available anymore!"
@@ -1093,7 +1093,7 @@ msgstr "SVG画像"
 
 #: ../src/core/gui/dialog/LatexSettingsPanel.cpp:152
 msgid "Sample LaTeX file generated successfully."
-msgstr ""
+msgstr "サンプルのLaTeXファイルが作成されました。"
 
 #: ../src/core/control/Control.cpp:2718 ../src/core/control/jobs/SaveJob.cpp:25
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:384
@@ -2282,7 +2282,7 @@ msgstr ""
 
 #: ../ui/main.glade:1264
 msgid "Delete Layer"
-msgstr ""
+msgstr "レイヤーを削除"
 
 #: ../ui/settingsButtonConfig.glade:132
 msgid "Delete stroke"
@@ -2372,7 +2372,7 @@ msgstr ""
 
 #: ../ui/main.glade:2842 ../ui/main.glade:2879
 msgid "Duplicate"
-msgstr ""
+msgstr "複製"
 
 #: ../ui/main.glade:2916
 msgid "Edit (not implemented yet)"
@@ -2448,7 +2448,7 @@ msgstr ""
 
 #: ../ui/main.glade:247
 msgid "Export as..."
-msgstr ""
+msgstr "エクスポート…"
 
 #: ../ui/exportSettings.glade:367
 msgid "Export layers progressively"
@@ -2489,7 +2489,7 @@ msgstr ""
 
 #: ../ui/main.glade:551 ../ui/settings.glade:3631
 msgid "Fullscreen"
-msgstr ""
+msgstr "全画面表示"
 
 #: ../ui/settings.glade:5659
 msgid "Gain"
@@ -2545,7 +2545,7 @@ msgstr ""
 
 #: ../ui/main.glade:970 ../ui/settings.glade:3593 ../ui/settings.glade:3660
 msgid "Hide Menubar"
-msgstr ""
+msgstr "メニューバーを隠す"
 
 #: ../ui/settings.glade:3609 ../ui/settings.glade:3676
 msgid "Hide Sidebar"
@@ -2679,7 +2679,7 @@ msgstr ""
 
 #: ../ui/main.glade:594
 msgid "Layout"
-msgstr ""
+msgstr "レイアウト"
 
 #: ../ui/settings.glade:3398
 msgid "Left / Right-Handed"
@@ -3573,7 +3573,7 @@ msgstr ""
 
 #: ../ui/main.glade:1652 ../ui/main.glade:1798 ../ui/main.glade:1907
 msgid "_fine"
-msgstr ""
+msgstr "細(_f)"
 
 #: ../ui/main.glade:1663 ../ui/main.glade:1809 ../ui/main.glade:1918
 msgid "_medium"
@@ -3589,7 +3589,7 @@ msgstr ""
 
 #: ../ui/main.glade:1641 ../ui/main.glade:1787 ../ui/main.glade:1896
 msgid "_very fine"
-msgstr ""
+msgstr "_極細"
 
 #: ../ui/main.glade:1859
 msgid "_whiteout"
