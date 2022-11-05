@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-05 04:01+0000\n"
-"PO-Revision-Date: 2022-11-05 13:33\n"
+"PO-Revision-Date: 2022-11-05 14:36\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -124,7 +124,8 @@ msgstr "Cor do atributo não definida!"
 #: ../src/core/control/AudioController.cpp:118
 msgid "Audio folder not set or invalid! Recording won't work!\n"
 "Please set the recording folder under \"Preferences > Audio recording\""
-msgstr ""
+msgstr "Pasta de áudio não definida ou inválida! A gravação não funcionará!\n"
+"Por favor, selecione uma pasta de gravação válida em \"Preferências > Gravação de áudio\""
 
 #: ../src/core/control/Control.cpp:250
 msgid "Autosave failed with an error: {1}"
@@ -414,7 +415,7 @@ msgstr "Desenhar Seta"
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:39
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:488
 msgid "Draw Double Arrow"
-msgstr ""
+msgstr "Desenhar seta dupla"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:132
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:36
@@ -458,7 +459,7 @@ msgstr "Tipo de Desenho - não mudar"
 
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:29
 msgid "Drawing Type Combo"
-msgstr ""
+msgstr "Combinação do tipo de desenho"
 
 #: ../src/core/undo/TextBoxUndoAction.cpp:43
 msgid "Edit text"
@@ -466,19 +467,19 @@ msgstr "Editar texto"
 
 #: ../src/util/ElementRange.cpp:101
 msgid "ElementRange::parse(): element indices start with 1"
-msgstr ""
+msgstr "ElementRange::parse(): os índices de elementos começam com 1"
 
 #: ../src/util/ElementRange.cpp:95
 msgid "ElementRange::parse(): given element index is larger than maximum count."
-msgstr ""
+msgstr "ElementRange::parse(): o índice de elementos dado é maior que a contagem máxima."
 
 #: ../src/util/ElementRange.cpp:98
 msgid "ElementRange::parse(): interval bounds must be in increasing order."
-msgstr ""
+msgstr "ElementRange::parse(): os limites de intervalo devem estar em ordem crescente."
 
 #: ../src/util/ElementRange.cpp:91
 msgid "ElementRange::parse(): invalid element range."
-msgstr ""
+msgstr "ElementRange::parse(): intervalo de elementos inválido."
 
 #: ../src/core/undo/EmergencySaveRestore.cpp:22
 msgid "Emergency saved document"
@@ -540,7 +541,7 @@ msgstr "Erro a gravar automaticamente: {1}"
 
 #: ../src/core/control/jobs/ImageExport.cpp:177
 msgid "Error while exporting the pdf background: I cannot find the pdf page number "
-msgstr ""
+msgstr "Erro ao exportar o fundo do PDF: Não consigo encontrar o número da página do PDF "
 
 #: ../src/util/Util.cpp:78
 msgid "Error {1} executing system command: {2}"
@@ -572,7 +573,9 @@ msgstr "Exportar FICHEIRO como PDF"
 msgid "Export FILE as image files (one per page)\n"
 "                                 Guess the output format from the extension of IMGFILE\n"
 "                                 Supported formats: .png, .svg"
-msgstr ""
+msgstr "Exportar FICHEIRO como ficheiros de imagem (um para cada página)\n"
+"                                 Adivinhe o formato de saída da extensão do FICHEIROIMG\n"
+"                                 Formatos suportados: .png, .svg"
 
 #: ../src/core/control/jobs/BaseExportJob.cpp:23
 msgid "Export PDF"
@@ -580,7 +583,7 @@ msgstr "Exportar PDF"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:385
 msgid "Export as PDF"
-msgstr ""
+msgstr "Exportar como PDF"
 
 #: ../src/core/control/XournalMain.cpp:639
 msgid "Export layers progressively\n"
@@ -588,13 +591,19 @@ msgid "Export layers progressively\n"
 "                                 This results in N export pages per page with N layers,\n"
 "                                 building up the layer stack progressively.\n"
 "                                 The resulting PDF file can be used for a presentation.\n"
-msgstr ""
+msgstr "Exportar camadas progressivamente\n"
+"                                 Na exportação de PDF, proceder às camadas progressivamente, uma a uma.\n"
+"                                 Isso resulta em N páginas de exportação por página com N camadas,\n"
+"                                 construindo progressivamente a pilha de camadas.\n"
+"                                 O ficheiro PDF resultante pode ser utilizado para uma apresentação.\n"
 
 #: ../src/core/control/XournalMain.cpp:630
 msgid "Export without background\n"
 "                                 The exported file has transparent or white background,\n"
 "                                 depending on what its format supports\n"
-msgstr ""
+msgstr "Exportar sem fundo\n"
+"                                 O ficheiro exportado tem plano de fundo transparente ou branco,\n"
+"                                 dependendo do suporte de formato\n"
 
 #: ../src/core/control/XournalMain.cpp:635
 msgid "Export without ruling\n"
