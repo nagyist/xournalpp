@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-05 04:01+0000\n"
-"PO-Revision-Date: 2022-11-05 04:04\n"
+"PO-Revision-Date: 2022-11-05 13:33\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -32,7 +32,8 @@ msgstr "\n"
 #: ../src/core/control/Control.cpp:2256
 msgid "\n"
 "Proposed replacement file: \"{1}\""
-msgstr ""
+msgstr "\n"
+"Ficheiro de substituição proposto: \"{1}\""
 
 #: ../src/core/gui/toolbarMenubar/ToolPageSpinner.cpp:37
 msgctxt "Page {pagenumber} \"of {pagecount}\""
