@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-01 13:34+0000\n"
-"PO-Revision-Date: 2022-11-01 13:50\n"
+"POT-Creation-Date: 2022-11-05 04:01+0000\n"
+"PO-Revision-Date: 2022-11-05 04:04\n"
 "Last-Translator: \n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
@@ -29,7 +29,7 @@ msgid "\n"
 msgstr "\n"
 " Vrei să continui?"
 
-#: ../src/core/control/Control.cpp:2243
+#: ../src/core/control/Control.cpp:2256
 msgid "\n"
 "Proposed replacement file: \"{1}\""
 msgstr "\n"
@@ -157,7 +157,7 @@ msgstr "Adu mai aproape"
 msgid "Bring to front"
 msgstr "Adu în prim-plan"
 
-#: ../src/core/control/Control.cpp:2255 ../src/core/control/Control.cpp:2726
+#: ../src/core/control/Control.cpp:2268 ../src/core/control/Control.cpp:2739
 #: ../src/core/control/XournalMain.cpp:177
 msgid "Cancel"
 msgstr "Renunță"
@@ -365,7 +365,7 @@ msgstr "Elimină acest strat"
 msgid "Delete this page"
 msgstr "Elimină această pagină"
 
-#: ../src/core/control/Control.cpp:2723
+#: ../src/core/control/Control.cpp:2736
 msgid "Discard"
 msgstr "Nu salva"
 
@@ -373,7 +373,7 @@ msgstr "Nu salva"
 msgid "Display advanced export options"
 msgstr "Arată opțiuni avansate de exportare"
 
-#: ../src/core/control/Control.cpp:2168
+#: ../src/core/control/Control.cpp:2181
 msgid "Do not open Autosave files. They may will be overwritten!\n"
 "Copy the files to another folder.\n"
 "Files from Folder {1} cannot be opened."
@@ -385,7 +385,7 @@ msgstr "Nu deschide fișierele salvate automat. Acestea pot fi suprascrise!\n"
 msgid "Do not overwrite the background PDF! This will cause errors!"
 msgstr "Nu suprascrie fondul PDF! Acest lucru va provoca erori!"
 
-#: ../src/core/control/Control.cpp:2717
+#: ../src/core/control/Control.cpp:2730
 msgid "Document file was removed."
 msgstr "Fișierul documentului a fost eliminat."
 
@@ -500,7 +500,7 @@ msgstr "Șterge linia"
 msgid "Eraser"
 msgstr "Gumă"
 
-#: ../src/core/control/Control.cpp:2463
+#: ../src/core/control/Control.cpp:2476
 msgid "Error annotate PDF file \"{1}\"\n"
 "{2}"
 msgstr "Eroare la însemnarea fișierului PDF „{1}”\n"
@@ -510,7 +510,7 @@ msgstr "Eroare la însemnarea fișierului PDF „{1}”\n"
 msgid "Error loading glade file \"{1}\" (try to load \"{2}\")"
 msgstr "Eroare la încărcarea fișierului glade „{1}” (încerc să încarc „{2}”)"
 
-#: ../src/core/control/Control.cpp:2286
+#: ../src/core/control/Control.cpp:2299
 msgid "Error opening file \"{1}\""
 msgstr "Eroare la deschiderea fișierului „{1}”"
 
@@ -895,7 +895,7 @@ msgstr "Niciun dispozitiv"
 msgid "No pages to export!"
 msgstr "Nicio pagină de exportat!"
 
-#: ../src/core/control/Control.cpp:1396
+#: ../src/core/control/Control.cpp:1409
 msgid "No pdf pages available to append. You may need to reopen the document first."
 msgstr "Nu există pagini PDF disponibile pentru a fi adăugate. Poate că trebuie redeschis mai întâi documentul."
 
@@ -1048,7 +1048,7 @@ msgstr "Tipărește"
 msgid "Record Audio / Stop Recording"
 msgstr "Înregistrare audio / Oprire înregistrare"
 
-#: ../src/core/control/Control.cpp:966
+#: ../src/core/control/Control.cpp:969
 msgid "Recorder could not be started."
 msgstr "Înregistratorul nu a putut fi pornit."
 
@@ -1061,7 +1061,7 @@ msgstr "Refă"
 msgid "Redo: "
 msgstr "Refă: "
 
-#: ../src/core/control/Control.cpp:2254
+#: ../src/core/control/Control.cpp:2267
 msgid "Remove PDF Background"
 msgstr "Elimină fondul PDF"
 
@@ -1113,16 +1113,16 @@ msgstr "Grafică SVG"
 msgid "Sample LaTeX file generated successfully."
 msgstr "Exemplu de fișier LaTeX generat cu succes."
 
-#: ../src/core/control/Control.cpp:2718 ../src/core/control/jobs/SaveJob.cpp:25
+#: ../src/core/control/Control.cpp:2731 ../src/core/control/jobs/SaveJob.cpp:25
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:384
 msgid "Save"
 msgstr "Salvează"
 
-#: ../src/core/control/Control.cpp:2718
+#: ../src/core/control/Control.cpp:2731
 msgid "Save As..."
 msgstr "Salvează ca..."
 
-#: ../src/core/control/Control.cpp:2552
+#: ../src/core/control/Control.cpp:2565
 #: ../src/core/gui/dialog/PageTemplateDialog.cpp:85
 msgid "Save File"
 msgstr "Salvează fișierul"
@@ -1201,7 +1201,7 @@ msgstr "Alege o zonă"
 msgid "Select Text from pdf"
 msgstr "Alege textul din PDF"
 
-#: ../src/core/control/Control.cpp:2253
+#: ../src/core/control/Control.cpp:2266
 msgid "Select another PDF"
 msgstr "Alege un alt PDF"
 
@@ -1375,15 +1375,15 @@ msgstr "Textul nu a fost găsit"
 msgid "Text not found, searched on all pages"
 msgstr "Textul nu a fost găsit, căutat pe toate paginile"
 
-#: ../src/core/control/Control.cpp:1186
+#: ../src/core/control/Control.cpp:1189
 msgid "The Toolbarconfiguration \"{1}\" is predefined, would you create a copy to edit?"
 msgstr "Configurarea benzii cu instrumente „{1}” este predefinită. Vrei să modifici o copie?"
 
-#: ../src/core/control/Control.cpp:2230
+#: ../src/core/control/Control.cpp:2243
 msgid "The attached background file could not be found. It might have been moved, renamed or deleted."
 msgstr "Fișierul fondului atașat nu a putut fi găsit. Este posibil să fi fost mutat, redenumit sau șters."
 
-#: ../src/core/control/Control.cpp:2233
+#: ../src/core/control/Control.cpp:2246
 msgid "The background file \"{1}\" could not be found. It might have been moved, renamed or deleted.\n"
 "It was last seen at: \"{2}\""
 msgstr "Fișierul fondului „{1}” nu a putut fi găsit. Este posibil să fi fost mutat, redenumit sau șters.\n"
@@ -1393,7 +1393,7 @@ msgstr "Fișierul fondului „{1}” nu a putut fi găsit. Este posibil să fi f
 msgid "The check for overwriting the background failed with:\n"
 msgstr "Verificarea pentru suprascrierea fondului a eșuat cu:\n"
 
-#: ../src/core/control/Control.cpp:2294
+#: ../src/core/control/Control.cpp:2307
 msgid "The file being loaded has a file format version newer than the one currently supported by this version of Xournal++, so it may not load properly. Open anyways?"
 msgstr "Fișierul în curs de încărcare are o versiune de format mai nouă decât cea acceptată în prezent de această versiune de Xournal++, deci este posibil să nu se încarce în mod corespunzător. Deschizi oricum?"
 
@@ -1437,7 +1437,7 @@ msgstr "A apărut o eroare la afișarea ajutorului: {1}"
 msgid "Thick"
 msgstr "Gros"
 
-#: ../src/core/control/Control.cpp:2717
+#: ../src/core/control/Control.cpp:2730
 msgid "This document is not saved yet."
 msgstr "Acest document nu este salvat încă."
 
@@ -1473,7 +1473,7 @@ msgstr "Fișierul modelului global de la {1} nu poate fi deschis. Sigur există?
 msgid "Unable to play audio recording {1}"
 msgstr "Imposibil de redat înregistrarea audio {1}"
 
-#: ../src/core/control/Control.cpp:1410
+#: ../src/core/control/Control.cpp:1423
 msgid "Unable to retrieve pdf page."
 msgstr "Nu s-a putut afișa pagina pdf."
 
@@ -1522,7 +1522,7 @@ msgstr "Tip necunoscut de contur: „{1}”, se presupune a fi un cerc"
 msgid "Unknown stroke type: \"{1}\", assuming pen"
 msgstr "Tip necunoscut de linie: „{1}”, se presupune a fi de creion"
 
-#: ../src/core/control/Control.cpp:2609
+#: ../src/core/control/Control.cpp:2622
 msgid "Unsaved Document"
 msgstr "Document nesalvat"
 
@@ -1530,7 +1530,7 @@ msgstr "Document nesalvat"
 msgid "Unsupported graphics format: "
 msgstr "Format grafic neacceptat: "
 
-#: ../src/core/control/Control.cpp:2251
+#: ../src/core/control/Control.cpp:2264
 msgid "Use proposed PDF"
 msgstr "Folosește fișierul PDF propus"
 
@@ -1582,7 +1582,7 @@ msgstr "Fișiere Xournal"
 msgid "Xournal++ crashed last time. Would you like to restore the last edited file?"
 msgstr "Xournal++ s-a blocat ultima dată. Vrei să recuperezi ultimul fișier?"
 
-#: ../src/core/control/Control.cpp:2558
+#: ../src/core/control/Control.cpp:2571
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:62
 msgid "Xournal++ files"
 msgstr "Fișier Xournal++"
@@ -1630,7 +1630,7 @@ msgstr "Micșorează"
 msgid "Zoom to 100%"
 msgstr "Zoom 100%"
 
-#: ../src/core/control/Control.cpp:2552
+#: ../src/core/control/Control.cpp:2565
 #: ../src/core/control/jobs/BaseExportJob.cpp:24
 #: ../src/core/control/stockdlg/ImageOpenDlg.cpp:15
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:16
@@ -1643,7 +1643,7 @@ msgstr "_Renunță"
 msgid "_Open"
 msgstr "_Deschide"
 
-#: ../src/core/control/Control.cpp:2553
+#: ../src/core/control/Control.cpp:2566
 #: ../src/core/control/jobs/BaseExportJob.cpp:24
 #: ../src/core/gui/dialog/PageTemplateDialog.cpp:86
 msgid "_Save"
@@ -1686,7 +1686,7 @@ msgstr "elemente"
 msgid "eraser"
 msgstr "gumă"
 
-#: ../src/core/control/Control.cpp:2182
+#: ../src/core/control/Control.cpp:2195
 msgid "file: {1}"
 msgstr "fișier: {1}"
 
@@ -2126,7 +2126,7 @@ msgstr "Toate cele trei condiții trebuie îndeplinite înainte ca linia să fie
 msgid "Always check LaTeX dependencies before running"
 msgstr "Verifică mereu dependențele LaTeX înainte de pornire"
 
-#: ../ui/main.glade:1216
+#: ../ui/main.glade:1226
 msgid "Append New PDF Pages"
 msgstr "Adaugă Pagini PDF noi"
 
@@ -2263,7 +2263,7 @@ msgstr "Culori"
 msgid "Command Output"
 msgstr "Comanda de generare"
 
-#: ../ui/main.glade:1226
+#: ../ui/main.glade:1236
 msgid "Configure Page Template"
 msgstr "Configurează modelul de pagină"
 
@@ -2279,7 +2279,7 @@ msgstr "Copiază în schimb fondul paginii actuale"
 msgid "Copy current page size instead"
 msgstr "Copiază în schimb dimensiunile paginii actuale"
 
-#: ../ui/main.glade:2708
+#: ../ui/main.glade:2718
 msgid "Copy selected text"
 msgstr "Copiază textul ales"
 
@@ -2339,7 +2339,7 @@ msgstr "Nume prestabilit: "
 msgid "Defaults"
 msgstr "Prestabilite"
 
-#: ../ui/main.glade:1264
+#: ../ui/main.glade:1274
 msgid "Delete Layer"
 msgstr "Elimină stratul"
 
@@ -2415,11 +2415,11 @@ msgstr "Trage și așează componentele de aici în benzile cu instrumente și �
 msgid "Drag: If the value is too small, unwanted oscillations may appear. If the value is too high, there will be no stabilization."
 msgstr "Trage: Dacă valoarea este prea mică, pot apărea oscilații nedorite. Dacă valoarea este prea mare, nu va exista stabilizare."
 
-#: ../ui/main.glade:1503
+#: ../ui/main.glade:1513
 msgid "Draw Coordinate System"
 msgstr "Desenează sistemul de coordonate"
 
-#: ../ui/main.glade:1514
+#: ../ui/main.glade:1524
 msgid "Draw _Line"
 msgstr "Desenează _drepte"
 
@@ -2435,11 +2435,15 @@ msgstr "Zona de desenare"
 msgid "Drawing Tools - Set Modifiers by Draw Direction (Experimental)"
 msgstr "Instrumente de desenare - Stabilește modificatori în funcție de direcția de desenare (Experimental)"
 
-#: ../ui/main.glade:2842 ../ui/main.glade:2879
+#: ../ui/main.glade:2852 ../ui/main.glade:2889
 msgid "Duplicate"
 msgstr "Duplicat"
 
-#: ../ui/main.glade:2916
+#: ../ui/main.glade:1216
+msgid "Duplicate Page"
+msgstr ""
+
+#: ../ui/main.glade:2926
 msgid "Edit (not implemented yet)"
 msgstr "Modifică (nu este implementat încă)"
 
@@ -2499,7 +2503,7 @@ msgstr "Activează gesturile pentru zoom (trebuie repornit programul)"
 msgid "Enter / edit LaTeX Text"
 msgstr "Introdu/modifică textul LaTeX"
 
-#: ../ui/main.glade:1776
+#: ../ui/main.glade:1786
 msgid "Eraser Optio_ns"
 msgstr "Opțiu_ni pentru Gumă"
 
@@ -2524,11 +2528,11 @@ msgstr "Exportă straturile pe rând"
 msgid "Export the document without any background (None) or with PDF and image backgrounds only (No ruling) or with all background types (All)."
 msgstr "Exportă documentul fără niciun fond (Niciunul) sau numai cu fonduri PDF și de imagine (Fără liniere) sau cu toate tipurile de fond (Toate)."
 
-#: ../ui/main.glade:1752 ../ui/main.glade:1957
+#: ../ui/main.glade:1762 ../ui/main.glade:1967
 msgid "Fi_ll"
 msgstr "Ump_lere"
 
-#: ../ui/main.glade:1762 ../ui/main.glade:1967
+#: ../ui/main.glade:1772 ../ui/main.glade:1977
 msgid "Fill opacity"
 msgstr "Opacitatea umplerii"
 
@@ -2536,11 +2540,11 @@ msgstr "Opacitatea umplerii"
 msgid "Finalize the stroke"
 msgstr "Termină linia"
 
-#: ../ui/main.glade:2506
+#: ../ui/main.glade:2516
 msgid "Find next occurrence of the search string"
 msgstr "Caută următoarea apariție a textului"
 
-#: ../ui/main.glade:2484
+#: ../ui/main.glade:2494
 msgid "Find previous occurrence of the search string"
 msgstr "Caută apariția anterioară a textului"
 
@@ -2592,7 +2596,7 @@ msgstr "Mărimea grilei"
 msgid "Grid snapping tolerance"
 msgstr "Toleranța ancorării la grilă"
 
-#: ../ui/main.glade:1602
+#: ../ui/main.glade:1612
 msgid "H_and Tool"
 msgstr "Instrumentul _Mână"
 
@@ -2628,11 +2632,11 @@ msgstr "Ascunde bara verticală de răsfoire"
 msgid "Highlight cursor position"
 msgstr "Evidențiază poziția cursorului"
 
-#: ../ui/main.glade:2730
+#: ../ui/main.glade:2740
 msgid "Highlight selected text"
 msgstr "Evidențiază textul ales"
 
-#: ../ui/main.glade:1885
+#: ../ui/main.glade:1895
 msgid "Highlighter Opti_ons"
 msgstr "Opțiuni pentru Evidențiat_or"
 
@@ -2716,11 +2720,11 @@ msgstr "Stabilizarea poate crea un gol la sfârșitul liniei trasate. Dacă bife
 msgid "Insert Latex"
 msgstr "Introdu LaTeX"
 
-#: ../ui/main.glade:2871
+#: ../ui/main.glade:2881
 msgid "Insert Page After"
 msgstr "Introdu o pagină după"
 
-#: ../ui/main.glade:2863
+#: ../ui/main.glade:2873
 msgid "Insert Page Before"
 msgstr "Introdu o pagină înainte"
 
@@ -2796,11 +2800,11 @@ msgstr "Lungime maximă (mm)"
 msgid "Max multiplier"
 msgstr "Multiplicator maxim"
 
-#: ../ui/main.glade:2834
+#: ../ui/main.glade:2844
 msgid "Merge Down"
 msgstr "Unește jos"
 
-#: ../ui/main.glade:1275
+#: ../ui/main.glade:1285
 msgid "Merge Layer Down"
 msgstr "Unește cu stratul inferior"
 
@@ -2834,11 +2838,11 @@ msgstr "Butoanele Mausului"
 msgid "Mouse+Keyboard Combo"
 msgstr "Maus+Tastatură împreună"
 
-#: ../ui/main.glade:2826 ../ui/main.glade:2901
+#: ../ui/main.glade:2836 ../ui/main.glade:2911
 msgid "Move Down"
 msgstr "Mută în jos"
 
-#: ../ui/main.glade:2818 ../ui/main.glade:2893
+#: ../ui/main.glade:2828 ../ui/main.glade:2903
 msgid "Move Up"
 msgstr "Mută în sus"
 
@@ -2862,7 +2866,7 @@ msgstr "O pagină _nouă înainte"
 msgid "New Page at _End"
 msgstr "O pagină nouă la _sfârșit"
 
-#: ../ui/main.glade:1253
+#: ../ui/main.glade:1263
 msgid "New _Layer"
 msgstr "Strat _nou"
 
@@ -2916,7 +2920,7 @@ msgstr "Pagini:"
 msgid "Paired Pages"
 msgstr "Pagini alăturate"
 
-#: ../ui/main.glade:1323
+#: ../ui/main.glade:1333
 msgid "Paper B_ackground"
 msgstr "Fondul _hârtiei"
 
@@ -2924,11 +2928,11 @@ msgstr "Fondul _hârtiei"
 msgid "Paper Format"
 msgstr "Formatul hârtiei"
 
-#: ../ui/main.glade:1313
+#: ../ui/main.glade:1323
 msgid "Paper _Color"
 msgstr "Culoare hârtiei"
 
-#: ../ui/main.glade:1303
+#: ../ui/main.glade:1313
 msgid "Paper _Format"
 msgstr "_Formatul hârtiei"
 
@@ -2942,11 +2946,11 @@ msgstr "Bazat parțial pe Xournal\n"
 msgid "Path: "
 msgstr "Cale: "
 
-#: ../ui/main.glade:2003
+#: ../ui/main.glade:2013
 msgid "Pause"
 msgstr "Pauză"
 
-#: ../ui/main.glade:1630
+#: ../ui/main.glade:1640
 msgid "Pen _Options"
 msgstr "_Opțiuni pentru Creion"
 
@@ -2966,7 +2970,7 @@ msgstr "Reglări de redare"
 msgid "Plugin Manager"
 msgstr "Gestionare Module"
 
-#: ../ui/main.glade:2068
+#: ../ui/main.glade:2078
 msgid "Plugin _Manager"
 msgstr "Gestionare _Module"
 
@@ -3026,7 +3030,7 @@ msgstr "Reîncarcă atunci când zoomul paginii se schimbă cu mai mult de "
 msgid "Recent _Documents"
 msgstr "Documente recente"
 
-#: ../ui/main.glade:1993
+#: ../ui/main.glade:2003
 msgid "Record / Stop"
 msgstr "Înregistrare / Oprire"
 
@@ -3034,7 +3038,7 @@ msgstr "Înregistrare / Oprire"
 msgid "Recording Quality"
 msgstr "Calitatea înregistrării"
 
-#: ../ui/main.glade:1286
+#: ../ui/main.glade:1296
 msgid "Rename Layer"
 msgstr "Redenumește stratul"
 
@@ -3090,7 +3094,7 @@ msgstr "Alege dosarul"
 msgid "Select Image"
 msgstr "Alege o imagine"
 
-#: ../ui/main.glade:1371
+#: ../ui/main.glade:1381
 msgid "Select Linear Text"
 msgstr "Alege text liniar"
 
@@ -3098,7 +3102,7 @@ msgstr "Alege text liniar"
 msgid "Select PDF Page"
 msgstr "Alege o pagină PDF"
 
-#: ../ui/main.glade:1383
+#: ../ui/main.glade:1393
 msgid "Select Text In Rectangle"
 msgstr "Alege textul din dreptunghi"
 
@@ -3205,7 +3209,7 @@ msgstr "Începe zoomul după o anumită distanță "
 msgid "Storage Folder"
 msgstr "Alege dosarul"
 
-#: ../ui/main.glade:2770
+#: ../ui/main.glade:2780
 msgid "Strikethrough selected text"
 msgstr "Taie cu o linie textul ales"
 
@@ -3262,7 +3266,7 @@ msgstr "Testează configurarea"
 msgid "Test if the current configuration is valid by running the LaTeX generation command on the global template file with a test formula."
 msgstr "Verifică dacă este valabilă configurarea actuală, prin executarea comenzii de generare LaTeX pe fișierul modelului global, cu o formulă de test."
 
-#: ../ui/main.glade:1981
+#: ../ui/main.glade:1991
 msgid "Text Font..."
 msgstr "Tipul de litere al textului..."
 
@@ -3294,7 +3298,7 @@ msgstr "Aceste configurări vor fi folosite pentru paginile noi"
 msgid "Timeout"
 msgstr "Timp"
 
-#: ../ui/main.glade:2790
+#: ../ui/main.glade:2800
 msgid "Toggle standard / region text selection"
 msgstr "Schimbă modul de alegere a textului"
 
@@ -3319,7 +3323,7 @@ msgstr "Încearcă mai întâi să alegi obiectul."
 msgid "Try to select object first; if nothing selected then show floating toolbox if enabled."
 msgstr "Încearcă mai întâi să alegi obiectul; dacă nu este ales nimic, atunci arată caseta cu instrumente mobilă dacă este activată."
 
-#: ../ui/main.glade:2750
+#: ../ui/main.glade:2760
 msgid "Underline selected text"
 msgstr "Subliniază textul ales"
 
@@ -3503,11 +3507,11 @@ msgstr "_Coloane/Rânduri"
 msgid "_Customize"
 msgstr "_Personalizează"
 
-#: ../ui/main.glade:1431
+#: ../ui/main.glade:1441
 msgid "_Default Tools"
 msgstr "_Instrument prestabilit"
 
-#: ../ui/main.glade:1236
+#: ../ui/main.glade:1246
 msgid "_Delete Page"
 msgstr "_Elimină pagina"
 
@@ -3515,7 +3519,7 @@ msgstr "_Elimină pagina"
 msgid "_Edit"
 msgstr "_Modifică"
 
-#: ../ui/main.glade:1359
+#: ../ui/main.glade:1369
 msgid "_Eraser"
 msgstr "_Gumă"
 
@@ -3535,11 +3539,11 @@ msgstr "_Prima pagină"
 msgid "_Goto Page"
 msgstr "_Du-te la pagina"
 
-#: ../ui/main.glade:2082
+#: ../ui/main.glade:2092
 msgid "_Help"
 msgstr "_Ajutor"
 
-#: ../ui/main.glade:1395
+#: ../ui/main.glade:1405
 msgid "_Highlighter"
 msgstr "_Evidențiator"
 
@@ -3547,7 +3551,7 @@ msgstr "_Evidențiator"
 msgid "_Horizontal"
 msgstr "_Orizontal"
 
-#: ../ui/main.glade:1419
+#: ../ui/main.glade:1429
 msgid "_Image"
 msgstr "_Imagine"
 
@@ -3583,11 +3587,11 @@ msgstr "_Pagina următoare"
 msgid "_Pair Pages"
 msgstr "_Pagini alăturate"
 
-#: ../ui/main.glade:1347
+#: ../ui/main.glade:1357
 msgid "_Pen"
 msgstr "_Creion"
 
-#: ../ui/main.glade:2057
+#: ../ui/main.glade:2067
 msgid "_Plugin"
 msgstr "_Module"
 
@@ -3607,15 +3611,15 @@ msgstr "_Pagina anterioară"
 msgid "_Right to Left"
 msgstr "_De la dreapta la stânga"
 
-#: ../ui/main.glade:1448
+#: ../ui/main.glade:1458
 msgid "_Shape Recognizer"
 msgstr "_Recunoaște forma"
 
-#: ../ui/main.glade:1407
+#: ../ui/main.glade:1417
 msgid "_Text"
 msgstr "_Text"
 
-#: ../ui/main.glade:1336
+#: ../ui/main.glade:1346
 msgid "_Tools"
 msgstr "_Instrumente"
 
@@ -3631,7 +3635,7 @@ msgstr "_De sus în jos"
 msgid "_Vertical"
 msgstr "_Vertical"
 
-#: ../ui/main.glade:1578
+#: ../ui/main.glade:1588
 msgid "_Vertical Space"
 msgstr "_Spațiu vertical"
 
@@ -3639,31 +3643,31 @@ msgstr "_Spațiu vertical"
 msgid "_View"
 msgstr "_Vizualizare"
 
-#: ../ui/main.glade:1870
+#: ../ui/main.glade:1880
 msgid "_delete strokes"
 msgstr "_elimină linii"
 
-#: ../ui/main.glade:1652 ../ui/main.glade:1798 ../ui/main.glade:1907
+#: ../ui/main.glade:1662 ../ui/main.glade:1808 ../ui/main.glade:1917
 msgid "_fine"
 msgstr "_subțire"
 
-#: ../ui/main.glade:1663 ../ui/main.glade:1809 ../ui/main.glade:1918
+#: ../ui/main.glade:1673 ../ui/main.glade:1819 ../ui/main.glade:1928
 msgid "_medium"
 msgstr "_mediu"
 
-#: ../ui/main.glade:1848
+#: ../ui/main.glade:1858
 msgid "_standard"
 msgstr "_standard"
 
-#: ../ui/main.glade:1674 ../ui/main.glade:1820 ../ui/main.glade:1929
+#: ../ui/main.glade:1684 ../ui/main.glade:1830 ../ui/main.glade:1939
 msgid "_thick"
 msgstr "_gros"
 
-#: ../ui/main.glade:1641 ../ui/main.glade:1787 ../ui/main.glade:1896
+#: ../ui/main.glade:1651 ../ui/main.glade:1797 ../ui/main.glade:1906
 msgid "_very fine"
 msgstr "_foarte subțire"
 
-#: ../ui/main.glade:1859
+#: ../ui/main.glade:1869
 msgid "_whiteout"
 msgstr "_albește"
 
@@ -3697,7 +3701,7 @@ msgstr "pixeli"
 msgid "s <i>(after which the touchscreen will be reactivated again)</i>"
 msgstr "s <i>(după care ecranul tactil va fi reactivat)</i>"
 
-#: ../ui/main.glade:1685 ../ui/main.glade:1831 ../ui/main.glade:1940
+#: ../ui/main.glade:1695 ../ui/main.glade:1841 ../ui/main.glade:1950
 msgid "ver_y thick"
 msgstr "foarte _gros"
 
