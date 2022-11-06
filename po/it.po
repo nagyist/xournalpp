@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-05 18:15+0000\n"
-"PO-Revision-Date: 2022-11-05 18:31\n"
+"PO-Revision-Date: 2022-11-06 15:02\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -2445,7 +2445,7 @@ msgstr "Duplicato"
 
 #: ../ui/main.glade:1242
 msgid "Duplicate Page"
-msgstr ""
+msgstr "Duplica pagina"
 
 #: ../ui/main.glade:2952
 msgid "Edit (not implemented yet)"
@@ -2848,11 +2848,11 @@ msgstr "Sposta giù"
 
 #: ../ui/main.glade:490
 msgid "Move Selection Layer Down"
-msgstr ""
+msgstr "Sposta giù la selezione del livello"
 
 #: ../ui/main.glade:480
 msgid "Move Selection Layer Up"
-msgstr ""
+msgstr "Sposta su la selezione del livello"
 
 #: ../ui/main.glade:2854 ../ui/main.glade:2929
 msgid "Move Up"
