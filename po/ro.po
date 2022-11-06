@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-05 18:15+0000\n"
-"PO-Revision-Date: 2022-11-06 13:51\n"
+"PO-Revision-Date: 2022-11-06 15:02\n"
 "Last-Translator: \n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
@@ -2844,11 +2844,11 @@ msgstr "Mută în jos"
 
 #: ../ui/main.glade:490
 msgid "Move Selection Layer Down"
-msgstr ""
+msgstr "Mută jos selecția stratului"
 
 #: ../ui/main.glade:480
 msgid "Move Selection Layer Up"
-msgstr ""
+msgstr "Mută sus selecția stratului"
 
 #: ../ui/main.glade:2854 ../ui/main.glade:2929
 msgid "Move Up"
