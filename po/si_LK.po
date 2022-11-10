@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-09 21:20+0000\n"
-"PO-Revision-Date: 2022-11-09 21:23\n"
+"POT-Creation-Date: 2022-11-10 12:10+0000\n"
+"PO-Revision-Date: 2022-11-10 12:20\n"
 "Last-Translator: \n"
 "Language-Team: Sinhala\n"
 "Language: si_LK\n"
@@ -75,7 +75,7 @@ msgstr "සියලුම පිටු වලට යොදන්න"
 msgid "Apply to current page"
 msgstr "වත්මන් පිටුවට යොදන්න"
 
-#: ../src/core/control/tools/EditSelection.cpp:378
+#: ../src/core/control/tools/EditSelection.cpp:398
 msgid "Arrange"
 msgstr ""
 
@@ -141,11 +141,11 @@ msgstr "ආපසු"
 msgid "Background"
 msgstr "පසුබිම"
 
-#: ../src/core/control/tools/EditSelection.cpp:393
+#: ../src/core/control/tools/EditSelection.cpp:413
 msgid "Bring forward"
 msgstr ""
 
-#: ../src/core/control/tools/EditSelection.cpp:383
+#: ../src/core/control/tools/EditSelection.cpp:403
 msgid "Bring to front"
 msgstr ""
 
@@ -1201,11 +1201,11 @@ msgstr ""
 msgid "Send Bugreport"
 msgstr ""
 
-#: ../src/core/control/tools/EditSelection.cpp:404
+#: ../src/core/control/tools/EditSelection.cpp:424
 msgid "Send backward"
 msgstr ""
 
-#: ../src/core/control/tools/EditSelection.cpp:412
+#: ../src/core/control/tools/EditSelection.cpp:432
 msgid "Send to back"
 msgstr "ආපස්සට යවන්න"
 
