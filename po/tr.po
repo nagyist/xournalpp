@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-09 21:20+0000\n"
-"PO-Revision-Date: 2022-11-09 21:22\n"
+"POT-Creation-Date: 2022-11-10 12:10+0000\n"
+"PO-Revision-Date: 2022-11-10 12:19\n"
 "Last-Translator: \n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -81,7 +81,7 @@ msgstr "Tüm sayfalara uygula"
 msgid "Apply to current page"
 msgstr "Geçerli sayfaya uygula"
 
-#: ../src/core/control/tools/EditSelection.cpp:378
+#: ../src/core/control/tools/EditSelection.cpp:398
 msgid "Arrange"
 msgstr "Sırala"
 
@@ -148,11 +148,11 @@ msgstr "Geri"
 msgid "Background"
 msgstr "Arka plan"
 
-#: ../src/core/control/tools/EditSelection.cpp:393
+#: ../src/core/control/tools/EditSelection.cpp:413
 msgid "Bring forward"
 msgstr "Öne getir"
 
-#: ../src/core/control/tools/EditSelection.cpp:383
+#: ../src/core/control/tools/EditSelection.cpp:403
 msgid "Bring to front"
 msgstr "En öne getir"
 
@@ -1229,11 +1229,11 @@ msgstr "Kombinasyonu seç"
 msgid "Send Bugreport"
 msgstr "Hata Raporu Gönder"
 
-#: ../src/core/control/tools/EditSelection.cpp:404
+#: ../src/core/control/tools/EditSelection.cpp:424
 msgid "Send backward"
 msgstr "Geriye gönder"
 
-#: ../src/core/control/tools/EditSelection.cpp:412
+#: ../src/core/control/tools/EditSelection.cpp:432
 msgid "Send to back"
 msgstr "En arkaya gönder"
 
