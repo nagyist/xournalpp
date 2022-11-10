@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-09 21:20+0000\n"
-"PO-Revision-Date: 2022-11-09 21:23\n"
+"POT-Creation-Date: 2022-11-10 12:10+0000\n"
+"PO-Revision-Date: 2022-11-10 12:19\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
@@ -82,7 +82,7 @@ msgstr "طبق على كافة الصفحات"
 msgid "Apply to current page"
 msgstr "طبق على الصفحة الحالية"
 
-#: ../src/core/control/tools/EditSelection.cpp:378
+#: ../src/core/control/tools/EditSelection.cpp:398
 msgid "Arrange"
 msgstr "ترتيب"
 
@@ -149,11 +149,11 @@ msgstr "تأخير"
 msgid "Background"
 msgstr "الخلفية"
 
-#: ../src/core/control/tools/EditSelection.cpp:393
+#: ../src/core/control/tools/EditSelection.cpp:413
 msgid "Bring forward"
 msgstr "خطوة إلى الأمام"
 
-#: ../src/core/control/tools/EditSelection.cpp:383
+#: ../src/core/control/tools/EditSelection.cpp:403
 msgid "Bring to front"
 msgstr "اجلب للمقدمة"
 
@@ -1231,11 +1231,11 @@ msgstr "مجموعة أدوات التحديد"
 msgid "Send Bugreport"
 msgstr "إرسال تقرير خطأ"
 
-#: ../src/core/control/tools/EditSelection.cpp:404
+#: ../src/core/control/tools/EditSelection.cpp:424
 msgid "Send backward"
 msgstr "خطوة إلى الخلف"
 
-#: ../src/core/control/tools/EditSelection.cpp:412
+#: ../src/core/control/tools/EditSelection.cpp:432
 msgid "Send to back"
 msgstr "إرسال إلى المؤخرة"
 
