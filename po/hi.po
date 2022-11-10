@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-09 21:20+0000\n"
-"PO-Revision-Date: 2022-11-09 21:22\n"
+"POT-Creation-Date: 2022-11-10 12:10+0000\n"
+"PO-Revision-Date: 2022-11-10 12:19\n"
 "Last-Translator: \n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
@@ -81,7 +81,7 @@ msgstr "सभी उत्पादों के लिए लागू कर�
 msgid "Apply to current page"
 msgstr "इस पूष्ठ में जौडें"
 
-#: ../src/core/control/tools/EditSelection.cpp:378
+#: ../src/core/control/tools/EditSelection.cpp:398
 msgid "Arrange"
 msgstr "व्यवस्थित करें"
 
@@ -147,11 +147,11 @@ msgstr "पीछे"
 msgid "Background"
 msgstr "पृष्ठभूमि"
 
-#: ../src/core/control/tools/EditSelection.cpp:393
+#: ../src/core/control/tools/EditSelection.cpp:413
 msgid "Bring forward"
 msgstr "सामने लाएं"
 
-#: ../src/core/control/tools/EditSelection.cpp:383
+#: ../src/core/control/tools/EditSelection.cpp:403
 msgid "Bring to front"
 msgstr "सबके सामने लाएँ"
 
@@ -1213,11 +1213,11 @@ msgstr "चयन कॉम्बो"
 msgid "Send Bugreport"
 msgstr "Bugreport भेजें"
 
-#: ../src/core/control/tools/EditSelection.cpp:404
+#: ../src/core/control/tools/EditSelection.cpp:424
 msgid "Send backward"
 msgstr "पीचे भीजे"
 
-#: ../src/core/control/tools/EditSelection.cpp:412
+#: ../src/core/control/tools/EditSelection.cpp:432
 msgid "Send to back"
 msgstr "पीछे भेजें"
 
