@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-09 21:20+0000\n"
-"PO-Revision-Date: 2022-11-09 21:22\n"
+"POT-Creation-Date: 2022-11-10 12:10+0000\n"
+"PO-Revision-Date: 2022-11-10 12:19\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -81,7 +81,7 @@ msgstr "全てのページに適用する"
 msgid "Apply to current page"
 msgstr "現在のページに適用する"
 
-#: ../src/core/control/tools/EditSelection.cpp:378
+#: ../src/core/control/tools/EditSelection.cpp:398
 msgid "Arrange"
 msgstr "並べ替える"
 
@@ -148,11 +148,11 @@ msgstr "戻る"
 msgid "Background"
 msgstr "背景"
 
-#: ../src/core/control/tools/EditSelection.cpp:393
+#: ../src/core/control/tools/EditSelection.cpp:413
 msgid "Bring forward"
 msgstr "繰り上げる"
 
-#: ../src/core/control/tools/EditSelection.cpp:383
+#: ../src/core/control/tools/EditSelection.cpp:403
 msgid "Bring to front"
 msgstr "前景に持って来る"
 
@@ -1215,11 +1215,11 @@ msgstr ""
 msgid "Send Bugreport"
 msgstr "バグレポートを送信"
 
-#: ../src/core/control/tools/EditSelection.cpp:404
+#: ../src/core/control/tools/EditSelection.cpp:424
 msgid "Send backward"
 msgstr "背面に移動"
 
-#: ../src/core/control/tools/EditSelection.cpp:412
+#: ../src/core/control/tools/EditSelection.cpp:432
 msgid "Send to back"
 msgstr "最背面に移動"
 
