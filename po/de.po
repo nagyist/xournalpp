@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-10 12:10+0000\n"
-"PO-Revision-Date: 2022-11-10 12:20\n"
+"POT-Creation-Date: 2022-11-11 11:21+0000\n"
+"PO-Revision-Date: 2022-11-11 11:27\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -40,7 +40,7 @@ msgctxt "Page {pagenumber} \"of {pagecount}\""
 msgid " of {1}"
 msgstr " von {1}"
 
-#: ../src/core/control/settings/Settings.cpp:141
+#: ../src/core/control/settings/Settings.cpp:142
 msgid "%F-Note-%H-%M"
 msgstr "%F-Notiz-%H-%M"
 
@@ -91,33 +91,33 @@ msgstr "Anordnen"
 msgid "Attach file to the journal"
 msgstr "Datei ans Journal anhängen"
 
-#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:122
+#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:130
 msgid "Attribute \"{1}\" could not be parsed as double, the value is \"{2}\""
 msgstr "Attribut \"{1}\" konnte nicht als Fließkommazahl ausgelesen werden, der Wert ist \"{2}\""
 
-#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:115
+#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:123
 msgid "Attribute \"{1}\" could not be parsed as double, the value is nullptr"
 msgstr "Attribut \"{1}\" konnte nicht als Fließkommazahl ausgelesen werden, der Wert ist NULL"
 
-#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:139
-#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:158
+#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:147
+#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:166
 msgid "Attribute \"{1}\" could not be parsed as int, the value is \"{2}\""
 msgstr "Attribut \"{1}\" konnte nicht als Ganzzahl ausgelesen werden, der Wert ist \"{2}\""
 
-#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:132
+#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:140
 msgid "Attribute \"{1}\" could not be parsed as int, the value is nullptr"
 msgstr "Attribut \"{1}\" konnte nicht als Ganzzahl ausgelesen werden, der Wert ist NULL"
 
-#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:177
-#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:197
+#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:185
+#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:205
 msgid "Attribute \"{1}\" could not be parsed as size_t, the value is \"{2}\""
 msgstr "Attribut \"{1}\" konnte nicht als size_t ausgelesen werden, der Wert ist \"{2}\""
 
-#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:170
+#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:178
 msgid "Attribute \"{1}\" could not be parsed as size_t, the value is nullptr"
 msgstr "Attribut \"{1}\" konnte nicht als size_t ausgelesen werden, der Wert ist NULL"
 
-#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:64
+#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:72
 msgid "Attribute color not set!"
 msgstr "Attribut Farbe ist nicht gesetzt!"
 
@@ -182,7 +182,7 @@ msgstr "Füllung ändern"
 msgid "Change stroke width"
 msgstr "Liniendicke ändern"
 
-#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:88
+#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:96
 msgid "Color \"{1}\" unknown (not defined in default color list)!"
 msgstr "Farbe \"{1}\" unbekannt (nicht in der Standardfarbliste)!"
 
@@ -1209,7 +1209,7 @@ msgstr "Andere PDF-Datei auswählen"
 msgid "Select another name"
 msgstr "Anderen Namen wählen"
 
-#: ../src/core/gui/dialog/SelectBackgroundColorDialog.cpp:106
+#: ../src/core/gui/dialog/SelectBackgroundColorDialog.cpp:107
 msgid "Select background color"
 msgstr "Hintergrundfarbe wählen"
 
@@ -1498,7 +1498,7 @@ msgstr "Unerwarteter Tag im Dokument: \"{1}\""
 msgid "Unknown background type: {1}"
 msgstr "Unbekannter Hintergrundtyp: {1}"
 
-#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:72
+#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:80
 msgid "Unknown color value \"{1}\""
 msgstr "Unbekannter Farbwert \"{1}\""
 
