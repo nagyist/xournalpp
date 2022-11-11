@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-10 12:10+0000\n"
-"PO-Revision-Date: 2022-11-10 12:19\n"
+"POT-Creation-Date: 2022-11-11 11:21+0000\n"
+"PO-Revision-Date: 2022-11-11 11:26\n"
 "Last-Translator: \n"
 "Language-Team: Vietnamese\n"
 "Language: vi_VN\n"
@@ -39,7 +39,7 @@ msgctxt "Page {pagenumber} \"of {pagecount}\""
 msgid " of {1}"
 msgstr " của {1}"
 
-#: ../src/core/control/settings/Settings.cpp:141
+#: ../src/core/control/settings/Settings.cpp:142
 msgid "%F-Note-%H-%M"
 msgstr "%F-Ghi chú-%H-%M"
 
@@ -90,33 +90,33 @@ msgstr "Sắp xếp"
 msgid "Attach file to the journal"
 msgstr "Gắn tệp vào sổ"
 
-#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:122
+#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:130
 msgid "Attribute \"{1}\" could not be parsed as double, the value is \"{2}\""
 msgstr "Thuộc tính \"{1}\" không thể phân tích được dạng kép, giá trị là \"{2}\""
 
-#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:115
+#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:123
 msgid "Attribute \"{1}\" could not be parsed as double, the value is nullptr"
 msgstr "Thuộc tính \"{1}\" không thể phân tích được dạng kép, giá trị trỏ vô hiệu"
 
-#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:139
-#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:158
+#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:147
+#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:166
 msgid "Attribute \"{1}\" could not be parsed as int, the value is \"{2}\""
 msgstr "Thuộc tính \"{1}\" không thể phân tích được kiểu số nguyên, giá trị là \"{2}\""
 
-#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:132
+#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:140
 msgid "Attribute \"{1}\" could not be parsed as int, the value is nullptr"
 msgstr "Thuộc tính \"{1}\" không thể phân tích được kiểu số nguyên, giá trị trỏ vô hiệu"
 
-#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:177
-#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:197
+#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:185
+#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:205
 msgid "Attribute \"{1}\" could not be parsed as size_t, the value is \"{2}\""
 msgstr "Thuộc tính \"{1}\" không thể phân tích được thành kiểu dữ liệu không dấu, giá trị là \"{2}\""
 
-#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:170
+#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:178
 msgid "Attribute \"{1}\" could not be parsed as size_t, the value is nullptr"
 msgstr "Thuộc tính \"{1}\" không thể phân tích được thành kiểu dữ liệu không dấu, giá trị trỏ vô hiệu"
 
-#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:64
+#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:72
 msgid "Attribute color not set!"
 msgstr "Thuộc tính màu chưa cài đặt!"
 
@@ -180,7 +180,7 @@ msgstr "Đổi nét tô"
 msgid "Change stroke width"
 msgstr "Đổi chiều rộng nét bút"
 
-#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:88
+#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:96
 msgid "Color \"{1}\" unknown (not defined in default color list)!"
 msgstr "Không xác định được màu \"{1}\" (không có trong danh sách màu mặc định)!"
 
@@ -1204,7 +1204,7 @@ msgstr "Chọn tập tin PDF khác"
 msgid "Select another name"
 msgstr "Chọn tên khác"
 
-#: ../src/core/gui/dialog/SelectBackgroundColorDialog.cpp:106
+#: ../src/core/gui/dialog/SelectBackgroundColorDialog.cpp:107
 msgid "Select background color"
 msgstr "Chọn màu nền"
 
@@ -1486,7 +1486,7 @@ msgstr ""
 msgid "Unknown background type: {1}"
 msgstr ""
 
-#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:72
+#: ../src/core/control/xojfile/LoadHandlerHelper.cpp:80
 msgid "Unknown color value \"{1}\""
 msgstr ""
 
