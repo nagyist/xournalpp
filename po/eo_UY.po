@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-12 21:34+0000\n"
-"PO-Revision-Date: 2022-11-13 17:00\n"
+"PO-Revision-Date: 2022-11-13 18:04\n"
 "Last-Translator: \n"
 "Language-Team: Esperanto\n"
 "Language: eo_UY\n"
@@ -32,7 +32,8 @@ msgstr "\n"
 #: ../src/core/control/Control.cpp:2269
 msgid "\n"
 "Proposed replacement file: \"{1}\""
-msgstr ""
+msgstr "\n"
+"Proponita anstataŭiga dosiero: «{1}»"
 
 #: ../src/core/gui/toolbarMenubar/ToolPageSpinner.cpp:37
 msgctxt "Page {pagenumber} \"of {pagecount}\""
@@ -1529,7 +1530,7 @@ msgstr "Nesubtenata grafika dosierformo: "
 
 #: ../src/core/control/Control.cpp:2277
 msgid "Use proposed PDF"
-msgstr ""
+msgstr "Uzi proponitan PDF"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:498
 msgid "Vertical Space"
@@ -2317,7 +2318,7 @@ msgstr "Radiuso de nesentiva disko"
 
 #: ../ui/latexSettings.glade:119
 msgid "Default LaTeX Text"
-msgstr ""
+msgstr "Implicita LaTeX-teksto"
 
 #: ../ui/settings.glade:636
 msgid "Default Save Name"
@@ -2437,7 +2438,7 @@ msgstr "Duplikatigi"
 
 #: ../ui/main.glade:1242
 msgid "Duplicate Page"
-msgstr ""
+msgstr "Duplikatigi paĝon"
 
 #: ../ui/main.glade:2952
 msgid "Edit (not implemented yet)"
@@ -2820,7 +2821,7 @@ msgstr "Minimuma premo:"
 
 #: ../ui/settings.glade:4815
 msgid "Minimum Stroke Size"
-msgstr ""
+msgstr "Minimuma grando de streko"
 
 #: ../ui/settings.glade:1460 ../ui/settingsDeviceClassConfig.glade:42
 msgid "Mouse"
