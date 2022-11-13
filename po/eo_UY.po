@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-12 21:34+0000\n"
-"PO-Revision-Date: 2022-11-12 21:38\n"
+"PO-Revision-Date: 2022-11-13 17:00\n"
 "Last-Translator: \n"
 "Language-Team: Esperanto\n"
 "Language: eo_UY\n"
@@ -1884,7 +1884,7 @@ msgstr "0.00"
 
 #: ../ui/settings.glade:4828
 msgid "0.20"
-msgstr ""
+msgstr "0.20"
 
 #: ../ui/settings.glade:1741
 msgid "1"
