@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-12 21:34+0000\n"
-"PO-Revision-Date: 2022-11-12 21:39\n"
+"PO-Revision-Date: 2022-11-13 19:59\n"
 "Last-Translator: \n"
 "Language-Team: Hungarian\n"
 "Language: hu_HU\n"
@@ -1226,7 +1226,7 @@ msgstr "Terület kijelölése"
 
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:19
 msgid "Selection Combo"
-msgstr "Kombinált kijelölés"
+msgstr "Kombinált kijelölése"
 
 #: ../src/core/control/XournalMain.cpp:173
 msgid "Send Bugreport"
@@ -1563,7 +1563,7 @@ msgstr "Hibás pontszám ({1})"
 
 #: ../src/core/control/xojfile/LoadHandler.cpp:1050
 msgid "Wrong number of pressure values, got {1}, expected {2}"
-msgstr ""
+msgstr "Helytelen számú nyomásérték, {1}, várható {2}"
 
 #: ../src/core/control/xojfile/LoadHandler.cpp:247
 msgid "XML Parser error: {1}"
@@ -2439,7 +2439,7 @@ msgstr "Megkettőzés"
 
 #: ../ui/main.glade:1242
 msgid "Duplicate Page"
-msgstr ""
+msgstr "Oldal megkettőzése"
 
 #: ../ui/main.glade:2952
 msgid "Edit (not implemented yet)"
@@ -2842,11 +2842,11 @@ msgstr "Mozgatás le"
 
 #: ../ui/main.glade:490
 msgid "Move Selection Layer Down"
-msgstr ""
+msgstr "Kijelölési réteg lefelé mozgatása"
 
 #: ../ui/main.glade:480
 msgid "Move Selection Layer Up"
-msgstr ""
+msgstr "Kijelölési réteg felfelé mozgatása"
 
 #: ../ui/main.glade:2854 ../ui/main.glade:2929
 msgid "Move Up"
