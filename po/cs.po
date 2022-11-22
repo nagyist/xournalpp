@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-12 21:34+0000\n"
-"PO-Revision-Date: 2022-11-12 21:39\n"
+"POT-Creation-Date: 2022-11-22 05:38+0000\n"
+"PO-Revision-Date: 2022-11-22 05:43\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -209,11 +209,11 @@ msgid "Could not create folder: {1}\n"
 msgstr "Nelze vytvořit složku: {1}\n"
 "Selhalo s chybou: {2}"
 
-#: ../src/core/control/LatexController.cpp:339
+#: ../src/core/control/LatexController.cpp:340
 msgid "Could not load LaTeX PDF file"
 msgstr "Nelze načíst LaTeX PDF soubor"
 
-#: ../src/core/control/LatexController.cpp:333
+#: ../src/core/control/LatexController.cpp:334
 msgid "Could not load LaTeX PDF file: {1}"
 msgstr "Nelze načíst LaTeX PDF soubor: {1}"
 
@@ -809,7 +809,7 @@ msgstr "Přejít na stránku (první stránka: 1)"
 msgid "LaTeX editor theme:"
 msgstr "Téma LaTeX editoru:"
 
-#: ../src/core/control/LatexController.cpp:242
+#: ../src/core/control/LatexController.cpp:243
 msgid "Latex generation encountered an error: {1} (exit code: {2})"
 msgstr "Generování Latex narazilo na chybu: {1} (exit kód: {2})"
 
@@ -1410,7 +1410,7 @@ msgstr "Soubor není platný .xopp soubor (chybí verze): \"{1}\""
 msgid "The file is not a valid .xopp file (Version string corrupted): \"{1}\""
 msgstr "Soubor není platný .xopp soubor (Version string je poškozený): \"{1}\""
 
-#: ../src/core/control/LatexController.cpp:301
+#: ../src/core/control/LatexController.cpp:302
 msgid "The formula is empty when rendered or invalid."
 msgstr "Vzorec je prázdný, když je vykreslený, nebo neplatný."
 
