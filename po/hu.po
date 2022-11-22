@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-12 21:34+0000\n"
-"PO-Revision-Date: 2022-11-13 21:11\n"
+"POT-Creation-Date: 2022-11-22 05:38+0000\n"
+"PO-Revision-Date: 2022-11-22 05:43\n"
 "Last-Translator: \n"
 "Language-Team: Hungarian\n"
 "Language: hu_HU\n"
@@ -210,11 +210,11 @@ msgid "Could not create folder: {1}\n"
 msgstr "A következő mappa nem hozható létre: {1}\n"
 "Hiba: {2}"
 
-#: ../src/core/control/LatexController.cpp:339
+#: ../src/core/control/LatexController.cpp:340
 msgid "Could not load LaTeX PDF file"
 msgstr "Nem sikerült a LaTeX PDF-fájl betöltése"
 
-#: ../src/core/control/LatexController.cpp:333
+#: ../src/core/control/LatexController.cpp:334
 msgid "Could not load LaTeX PDF file: {1}"
 msgstr "Nem sikerült a LaTeX PDF-fájl betöltése: {1}"
 
@@ -811,7 +811,7 @@ msgstr "Ugrás adott oldalra (első oldal: 1)"
 msgid "LaTeX editor theme:"
 msgstr "LaTeX-szerkesztő téma:"
 
-#: ../src/core/control/LatexController.cpp:242
+#: ../src/core/control/LatexController.cpp:243
 msgid "Latex generation encountered an error: {1} (exit code: {2})"
 msgstr "A LaTeX-létrehozó közben a következő hiba lépett fel: {1} (visszatérési érték: {2})"
 
@@ -1412,7 +1412,7 @@ msgstr "A fájl nem érvényes .xopp fájl (hiányzó verzió): „{1}”"
 msgid "The file is not a valid .xopp file (Version string corrupted): \"{1}\""
 msgstr "A fájl nem érvényes .xopp fájl (a verzió karakterlánca sérült): „{1}”"
 
-#: ../src/core/control/LatexController.cpp:301
+#: ../src/core/control/LatexController.cpp:302
 msgid "The formula is empty when rendered or invalid."
 msgstr "A képlet üres, vagy érvénytelen."
 
