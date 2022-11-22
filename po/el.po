@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-12 21:34+0000\n"
-"PO-Revision-Date: 2022-11-12 21:39\n"
+"POT-Creation-Date: 2022-11-22 05:38+0000\n"
+"PO-Revision-Date: 2022-11-22 05:43\n"
 "Last-Translator: \n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -209,11 +209,11 @@ msgid "Could not create folder: {1}\n"
 msgstr "Αδυναμία δημιουργίας φακέλου: {1}\n"
 "Αποτυχία με σφάλμα: {2}"
 
-#: ../src/core/control/LatexController.cpp:339
+#: ../src/core/control/LatexController.cpp:340
 msgid "Could not load LaTeX PDF file"
 msgstr "Δεν ήταν δυνατό να φορτωθεί το αρχείο LaTeX PDF"
 
-#: ../src/core/control/LatexController.cpp:333
+#: ../src/core/control/LatexController.cpp:334
 msgid "Could not load LaTeX PDF file: {1}"
 msgstr "Δεν ήταν δυνατό να φορτωθεί το αρχείο LaTeX PDF: {1}"
 
@@ -799,7 +799,7 @@ msgstr "Μετάβαση στη σελίδα (πρώτη σελίδα: 1)"
 msgid "LaTeX editor theme:"
 msgstr ""
 
-#: ../src/core/control/LatexController.cpp:242
+#: ../src/core/control/LatexController.cpp:243
 msgid "Latex generation encountered an error: {1} (exit code: {2})"
 msgstr ""
 
@@ -1392,7 +1392,7 @@ msgstr "Το αρχείο δεν είναι έγκυρο .xopp αρχείο (έ�
 msgid "The file is not a valid .xopp file (Version string corrupted): \"{1}\""
 msgstr "Το αρχείο δεν είναι έγκυρο .xopp αρχείο (Version string κατεστραμμένο): \"{1}\""
 
-#: ../src/core/control/LatexController.cpp:301
+#: ../src/core/control/LatexController.cpp:302
 msgid "The formula is empty when rendered or invalid."
 msgstr "Ο τύπος είναι κενός όταν αποδίδεται ή μη έγκυρος."
 
