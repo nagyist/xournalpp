@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-12 21:34+0000\n"
-"PO-Revision-Date: 2022-11-12 21:39\n"
+"POT-Creation-Date: 2022-11-22 05:38+0000\n"
+"PO-Revision-Date: 2022-11-22 05:43\n"
 "Last-Translator: \n"
 "Language-Team: Afrikaans\n"
 "Language: af_ZA\n"
@@ -208,11 +208,11 @@ msgid "Could not create folder: {1}\n"
 msgstr "Kon die lêer skep nie: {1}\n"
 "Misluk met fout: {2}"
 
-#: ../src/core/control/LatexController.cpp:339
+#: ../src/core/control/LatexController.cpp:340
 msgid "Could not load LaTeX PDF file"
 msgstr "Kon nie LaTeX PDF lêer laai nie"
 
-#: ../src/core/control/LatexController.cpp:333
+#: ../src/core/control/LatexController.cpp:334
 msgid "Could not load LaTeX PDF file: {1}"
 msgstr "Kon nie LaTeX PDF lêer laai nie: {1}"
 
@@ -808,7 +808,7 @@ msgstr "Spring na bladsy (eerste Bladsy: 1)"
 msgid "LaTeX editor theme:"
 msgstr ""
 
-#: ../src/core/control/LatexController.cpp:242
+#: ../src/core/control/LatexController.cpp:243
 msgid "Latex generation encountered an error: {1} (exit code: {2})"
 msgstr "Latex generator het 'n fout tee gekom: {1} (uitgangkode: {2})"
 
@@ -1407,7 +1407,7 @@ msgstr "Die lêer is nie 'n geldige .xopp lêer nie (Version missing): \"{1}\""
 msgid "The file is not a valid .xopp file (Version string corrupted): \"{1}\""
 msgstr "Die lêer is nie 'n geldige .xopp lêer nie (Version string corrputed): \"{1}\""
 
-#: ../src/core/control/LatexController.cpp:301
+#: ../src/core/control/LatexController.cpp:302
 msgid "The formula is empty when rendered or invalid."
 msgstr "Die formule is leeg wanneer gelewer word of is ongeldig."
 
