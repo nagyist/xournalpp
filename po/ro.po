@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-12 21:34+0000\n"
-"PO-Revision-Date: 2022-11-12 21:38\n"
+"POT-Creation-Date: 2022-11-22 05:38+0000\n"
+"PO-Revision-Date: 2022-11-22 05:43\n"
 "Last-Translator: \n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
@@ -210,11 +210,11 @@ msgid "Could not create folder: {1}\n"
 msgstr "Nu s-a putut crea dosarul: {1}\n"
 "Eroare: {2}"
 
-#: ../src/core/control/LatexController.cpp:339
+#: ../src/core/control/LatexController.cpp:340
 msgid "Could not load LaTeX PDF file"
 msgstr "Nu s-a putut încărca fișierul PDF LaTeX"
 
-#: ../src/core/control/LatexController.cpp:333
+#: ../src/core/control/LatexController.cpp:334
 msgid "Could not load LaTeX PDF file: {1}"
 msgstr "Nu s-a putut încărca fișierul PDF LaTeX:{1}"
 
@@ -812,7 +812,7 @@ msgstr "Salt la pagina (prima pagină: 1)"
 msgid "LaTeX editor theme:"
 msgstr "Aspectul elaboratorului LaTeX:"
 
-#: ../src/core/control/LatexController.cpp:242
+#: ../src/core/control/LatexController.cpp:243
 msgid "Latex generation encountered an error: {1} (exit code: {2})"
 msgstr "S-a produs o eroare la generarea LaTeX: {1} (eroare: {2})"
 
@@ -1413,7 +1413,7 @@ msgstr "Acesta nu este un fișier .xopp valabil (Lipsește Mimetype): „{1}”"
 msgid "The file is not a valid .xopp file (Version string corrupted): \"{1}\""
 msgstr "Acesta nu este un fișier .xopp valabil (Șirul versiunii este deteriorat): „{1}”"
 
-#: ../src/core/control/LatexController.cpp:301
+#: ../src/core/control/LatexController.cpp:302
 msgid "The formula is empty when rendered or invalid."
 msgstr "Formula este goală sau greșită."
 
