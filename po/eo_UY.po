@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-12 21:34+0000\n"
-"PO-Revision-Date: 2022-11-13 18:04\n"
+"POT-Creation-Date: 2022-11-22 05:38+0000\n"
+"PO-Revision-Date: 2022-11-22 05:43\n"
 "Last-Translator: \n"
 "Language-Team: Esperanto\n"
 "Language: eo_UY\n"
@@ -210,11 +210,11 @@ msgid "Could not create folder: {1}\n"
 msgstr "Ne eblis krei dosierujon: {1}\n"
 "Malsukcesis pro la jena eraro: {2}"
 
-#: ../src/core/control/LatexController.cpp:339
+#: ../src/core/control/LatexController.cpp:340
 msgid "Could not load LaTeX PDF file"
 msgstr "Ne eblis ŝargi la LaTeX-PDF-dosieron"
 
-#: ../src/core/control/LatexController.cpp:333
+#: ../src/core/control/LatexController.cpp:334
 msgid "Could not load LaTeX PDF file: {1}"
 msgstr "Ne eblis ŝargi la LaTeX-PDF-dosieron: {1}"
 
@@ -811,7 +811,7 @@ msgstr "Salti al paĝo (unua paĝo: 1)"
 msgid "LaTeX editor theme:"
 msgstr "Etoso de LaTeX-redaktilo:"
 
-#: ../src/core/control/LatexController.cpp:242
+#: ../src/core/control/LatexController.cpp:243
 msgid "Latex generation encountered an error: {1} (exit code: {2})"
 msgstr "LaTeX-farado malsukcesis pro la jena eraro: {1} (elirkodo: {2})"
 
@@ -1411,7 +1411,7 @@ msgstr "La dosiero ne estas valida .xopp-dosiero (la versio mankas): «{1}»"
 msgid "The file is not a valid .xopp file (Version string corrupted): \"{1}\""
 msgstr "La dosiero ne estas valida .xopp-dosiero (versio-teksto estas difektita): «{1}»"
 
-#: ../src/core/control/LatexController.cpp:301
+#: ../src/core/control/LatexController.cpp:302
 msgid "The formula is empty when rendered or invalid."
 msgstr "La formulo estas aŭ malplene bildigita aŭ nevalida."
 
