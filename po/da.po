@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-12 21:34+0000\n"
-"PO-Revision-Date: 2022-11-12 21:39\n"
+"POT-Creation-Date: 2022-11-22 05:38+0000\n"
+"PO-Revision-Date: 2022-11-22 05:43\n"
 "Last-Translator: \n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
@@ -210,11 +210,11 @@ msgid "Could not create folder: {1}\n"
 msgstr "Kunne ikke oprette mappe: {1}\n"
 "Mislykkedes med fejl: {2}"
 
-#: ../src/core/control/LatexController.cpp:339
+#: ../src/core/control/LatexController.cpp:340
 msgid "Could not load LaTeX PDF file"
 msgstr "Kunne ikke indlæse LaTeX PDF-fil"
 
-#: ../src/core/control/LatexController.cpp:333
+#: ../src/core/control/LatexController.cpp:334
 msgid "Could not load LaTeX PDF file: {1}"
 msgstr "Kunne ikke indlæse LaTeX PDF-fil: {1}"
 
@@ -799,7 +799,7 @@ msgstr ""
 msgid "LaTeX editor theme:"
 msgstr ""
 
-#: ../src/core/control/LatexController.cpp:242
+#: ../src/core/control/LatexController.cpp:243
 msgid "Latex generation encountered an error: {1} (exit code: {2})"
 msgstr ""
 
@@ -1390,7 +1390,7 @@ msgstr ""
 msgid "The file is not a valid .xopp file (Version string corrupted): \"{1}\""
 msgstr ""
 
-#: ../src/core/control/LatexController.cpp:301
+#: ../src/core/control/LatexController.cpp:302
 msgid "The formula is empty when rendered or invalid."
 msgstr ""
 
