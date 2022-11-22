@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-12 21:34+0000\n"
-"PO-Revision-Date: 2022-11-12 21:39\n"
+"POT-Creation-Date: 2022-11-22 05:38+0000\n"
+"PO-Revision-Date: 2022-11-22 05:43\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
@@ -210,11 +210,11 @@ msgid "Could not create folder: {1}\n"
 msgstr "تعذر إنشاء المجلد: {1}\n"
 "فشل برسالة خطأ مفادها: {2}"
 
-#: ../src/core/control/LatexController.cpp:339
+#: ../src/core/control/LatexController.cpp:340
 msgid "Could not load LaTeX PDF file"
 msgstr "تعذر تحميل ملف LaTeX PDF"
 
-#: ../src/core/control/LatexController.cpp:333
+#: ../src/core/control/LatexController.cpp:334
 msgid "Could not load LaTeX PDF file: {1}"
 msgstr "تعذر تحميل ملف LaTeX PDF: {1}"
 
@@ -810,7 +810,7 @@ msgstr "انتقال إلى الصفحة (الصفحة الأولى: 1)"
 msgid "LaTeX editor theme:"
 msgstr "سمة محرر LaTeX:"
 
-#: ../src/core/control/LatexController.cpp:242
+#: ../src/core/control/LatexController.cpp:243
 msgid "Latex generation encountered an error: {1} (exit code: {2})"
 msgstr "أثناء توليد LaTeX حدث خطأ: {1} (كود الخروج: {2})"
 
@@ -1411,7 +1411,7 @@ msgstr "الملف ليس ملف xopp صالحا (النسخة مفقودة): «
 msgid "The file is not a valid .xopp file (Version string corrupted): \"{1}\""
 msgstr "الملف ليس ملف xopp صالحا (نَص النسخة تالف): «{1}»"
 
-#: ../src/core/control/LatexController.cpp:301
+#: ../src/core/control/LatexController.cpp:302
 msgid "The formula is empty when rendered or invalid."
 msgstr "الصيغة فارغة عند رسمها أو تالفة."
 
