@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-12 21:34+0000\n"
-"PO-Revision-Date: 2022-11-12 21:38\n"
+"POT-Creation-Date: 2022-11-22 05:38+0000\n"
+"PO-Revision-Date: 2022-11-22 05:42\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -209,11 +209,11 @@ msgid "Could not create folder: {1}\n"
 msgstr "フォルダーを作成できませんでした: {1}\n"
 "エラーで失敗しました: {2}"
 
-#: ../src/core/control/LatexController.cpp:339
+#: ../src/core/control/LatexController.cpp:340
 msgid "Could not load LaTeX PDF file"
 msgstr "LaTeX PDFファイルを読み込めませんでした"
 
-#: ../src/core/control/LatexController.cpp:333
+#: ../src/core/control/LatexController.cpp:334
 msgid "Could not load LaTeX PDF file: {1}"
 msgstr "LaTeX PDFファイルを読み込めませんでした: {1}"
 
@@ -796,7 +796,7 @@ msgstr "ページ移動 (最初のページが1)"
 msgid "LaTeX editor theme:"
 msgstr "LaTeXエディタのテーマ:"
 
-#: ../src/core/control/LatexController.cpp:242
+#: ../src/core/control/LatexController.cpp:243
 msgid "Latex generation encountered an error: {1} (exit code: {2})"
 msgstr "LaTeX生成中にエラーが発生しました: {1} (終了コード: {2})"
 
@@ -1389,7 +1389,7 @@ msgstr "ファイルが有効な.xoppファイルではありません（バー�
 msgid "The file is not a valid .xopp file (Version string corrupted): \"{1}\""
 msgstr "ファイルが有効な.xoppファイルではありません（バーション文字列が破損）：\"{1}\""
 
-#: ../src/core/control/LatexController.cpp:301
+#: ../src/core/control/LatexController.cpp:302
 msgid "The formula is empty when rendered or invalid."
 msgstr ""
 
