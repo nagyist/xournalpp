@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-12 21:34+0000\n"
-"PO-Revision-Date: 2022-11-12 21:39\n"
+"POT-Creation-Date: 2022-11-22 05:38+0000\n"
+"PO-Revision-Date: 2022-11-22 05:43\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -210,11 +210,11 @@ msgid "Could not create folder: {1}\n"
 msgstr "Не удалось создать папку: {1}\n"
 "Ошибка при попытке: {2}"
 
-#: ../src/core/control/LatexController.cpp:339
+#: ../src/core/control/LatexController.cpp:340
 msgid "Could not load LaTeX PDF file"
 msgstr "Не удалось загрузить LaTeX PDF файл"
 
-#: ../src/core/control/LatexController.cpp:333
+#: ../src/core/control/LatexController.cpp:334
 msgid "Could not load LaTeX PDF file: {1}"
 msgstr "Не удалось загрузить LaTeX PDF файл: {1}"
 
@@ -810,7 +810,7 @@ msgstr "Перейти на страницу (первая страница: 1)"
 msgid "LaTeX editor theme:"
 msgstr "Тема редактора LaTeX:"
 
-#: ../src/core/control/LatexController.cpp:242
+#: ../src/core/control/LatexController.cpp:243
 msgid "Latex generation encountered an error: {1} (exit code: {2})"
 msgstr "Ошибка генерации LaTeX: {1} (код выхода: {2})"
 
@@ -1409,7 +1409,7 @@ msgstr "Файл не является допустимым .xopp-файлом (
 msgid "The file is not a valid .xopp file (Version string corrupted): \"{1}\""
 msgstr "Файл не является допустимым .xopp-файлом (строка версии недействительна): «{1}»"
 
-#: ../src/core/control/LatexController.cpp:301
+#: ../src/core/control/LatexController.cpp:302
 msgid "The formula is empty when rendered or invalid."
 msgstr "Формула пуста при визуализации или неверна."
 
